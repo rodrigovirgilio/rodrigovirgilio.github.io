@@ -96,4 +96,7 @@ I was part of the development team and I helped with the project selection proce
 
 [Desenvolvendo REST / RESTful APIs com Ruby on Rails](https://www.udemy.com/rubyonrails-api) (Udemy)
 
+## Extras
+
+[Central CM42](http://www.centralcm42.com/) Free backlog management system. I am part of the back-end team and review. [Contribute](https://github.com/Codeminer42/cm42-central)
 

@@ -96,4 +96,6 @@ Fiz parte do time de desenvolvimento e ajudei no projeto de processo de seleçã
 
 [Desenvolvendo REST / RESTful APIs com Ruby on Rails](https://www.udemy.com/rubyonrails-api) (Udemy)
 
+## Extras
 
+[Central CM42](http://www.centralcm42.com/) Sistema gratuito de gerenciamento de backlog. Faço parte do time de back-end e review. [Contribua](https://github.com/Codeminer42/cm42-central)
