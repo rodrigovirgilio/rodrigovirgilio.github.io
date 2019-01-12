@@ -24,7 +24,7 @@ I am a back-end developer who is always looking to learn new technologies and wh
 * CSS (Sass)
 * CSS Frameworks (Bootstrap, Semantic UI)
 * Git
-* TDD (Rspec - Capybara) and Integração Contínua
+* TDD (Rspec - Capybara) and Continuous Integration
 * DSL ActiveAdmin
 * Scrum and Kanban
 
