@@ -41,7 +41,7 @@ Empresas que trabalhei: StarsPremium, Guide Investimentos, Omnitrade, Nexaas, Bi
 Tecnologias utilizadas: Ruby; Rails; Rspec; Capybara; ActiveAdmin; Redux; React; JavaScript; HTML; CSS; Bootstrap; PorstgreSQL; MySQL; Redis; Sidekiq; Elasticsearch; API.
 
 > #### StartsPremium: 
-Gerenciamento de campanhas de vendas que tem como atuação a valorização e premiação da fidelidade com programas de pontos, premiações e relacionamento. Fiz parte do time que deu manutenção e integração de novas campanhas.
+Gerenciamento de campanhas de vendas que criam recompensam através de metas com programas que geram pontos, prêmios e beneficios para os participantes. Fiz parte do time que deu manutenção e integração de novas campanhas.
 
 > #### Guide Investimentos: 
 Investimentos financeiros como fundos de investimento, renda fixa, ações e mercado futuro. Fiz parte do time de fundos de investimentos por um curto período.
