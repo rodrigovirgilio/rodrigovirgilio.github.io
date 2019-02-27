@@ -100,6 +100,8 @@ Fiz parte do time de desenvolvimento e ajudei no projeto de processo de seleçã
 
 [24 hours of conversation based English classes with native speaking tutors on Cambly](https://rodrigovirgilio.github.io/certificates/cambly_certificate.pdf) Cambly - English tutors online.
 
-## Extras
+## Código Aberto (opensource) / Extras
 
 [Central CM42](http://www.centralcm42.com/) Sistema gratuito de gerenciamento de backlog. Faço parte do time de back-end e review. [Contribua](https://github.com/Codeminer42/cm42-central)
+
+[Ruby Marks](https://en.wikipedia.org/wiki/Optical_mark_recognition) Uma gem simples de leitura de marca ótica em ruby. [Contribua](https://github.com/ruby-marks/ruby-marks)

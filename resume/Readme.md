@@ -44,7 +44,7 @@ Technologies used: Ruby; Rails; Rspec; Capybara; ActiveAdmin; Redux; React; Java
 Management of sales campaigns that create reward through goals with programs that generate points, awards and benefits for the participants. I was part of the team that maintained and integrated new campaigns.
 
 > #### Guide Investimentos: 
-Financial investments as investment funds, fixed income, stocks and futures market. I was part of the investment fund team for a short time.
+Financial investments such as investment funds, fixed income, stocks and futures market. I was part of the investment fund team for a short time.
 
 > #### Omnitrade:
 The most advanced and safe crypto-coin broker in Brazil. I was part of the back-end team.
@@ -100,7 +100,8 @@ I was part of the development team and I helped with the project selection proce
 
 [24 hours of conversation based English classes with native speaking tutors on Cambly](https://rodrigovirgilio.github.io/certificates/cambly_certificate.pdf) Cambly - English tutors online.
 
-## Extras
+## OpenSource / Extras
 
 [Central CM42](http://www.centralcm42.com/) Free backlog management system. I am part of the back-end team and review. [Contribute](https://github.com/Codeminer42/cm42-central)
 
+[Ruby Marks](https://en.wikipedia.org/wiki/Optical_mark_recognition) - A simple OMR (Optical Mark Recognition) gem for ruby. [Contribute](https://github.com/ruby-marks/ruby-marks)
