@@ -1,6 +1,6 @@
 # Rodrigo Luis Virgilio da Silva
 
-**Location:** Batatais - Brasil
+**Location:** Batatais - Brazil
 
 **Phone Number:** +55 (16) 992261963
 
@@ -36,7 +36,7 @@ I am a back-end developer who is always looking to learn new technologies and wh
 **Back-end Developer** - Codeminer42 - April 2016 - Present
 
 
-> I work with consulting and software development where I have participated in several projects ranging from the creation and maintenance of systems.
+> I work as a consultant and software development where I have participated in several projects ranging from the creation and maintenance of systems.
 Companies I worked for: StarsPremium, Guide Investimentos, Omnitrade, Nexaas, Bio Ritmo Academia, Achieve Leap, Hospedin, Riot Games.
 Technologies used: Ruby; Rails; Rspec; Capybara; ActiveAdmin; Redux; React; JavaScript; HTML; CSS; Bootstrap; PorstgreSQL; MySQL; Redis; Sidekiq; Elasticsearch; API.
 
