@@ -33,10 +33,15 @@ Eu sou um desenvolvedor back-end que estou sempre procurando aprender novas tecn
 
 ## Experiência Profissional
 
-**Desenvolvedor back-end** - Codeminer42 - Abril 2016 - Presente
+**Desenvolvedor back-end** - Neo Med - junho 2019 - Presente
+
+> Trabalho como developer ruby on rails para área de saúde com marketplace de laudos médicos. Tecnologias utilizadas: Ruby; Rails; Rspec; PostgreSQL; HTML; CSS; Bootstrap.
 
 
-> Trabalho com consultoria e desenvolvimento de software onde participei de diversos projetos atuando desde a criação a manutenção de sistemas.
+**Desenvolvedor back-end** - Codeminer42 - Abril 2016 - junho 2019
+
+
+> Trabalhei com consultoria e desenvolvimento de software onde participei de diversos projetos atuando desde a criação a manutenção de sistemas.
 Empresas que trabalhei: StarsPremium, Guide Investimentos, Omnitrade, Nexaas, Bio Ritmo Academia, Achieve Leap, Hospedin, Riot Games.
 Tecnologias utilizadas: Ruby; Rails; Rspec; Capybara; ActiveAdmin; Redux; React; JavaScript; HTML; CSS; Bootstrap; PorstgreSQL; MySQL; Redis; Sidekiq; Elasticsearch; API.
 
