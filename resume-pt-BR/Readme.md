@@ -110,3 +110,5 @@ Fiz parte do time de desenvolvimento e ajudei no projeto de processo de seleçã
 [Central CM42](http://www.centralcm42.com/) Sistema gratuito de gerenciamento de backlog. Faço parte do time de back-end e review. [Contribua](https://github.com/Codeminer42/cm42-central)
 
 [Ruby Marks](https://en.wikipedia.org/wiki/Optical_mark_recognition) Uma gem simples de leitura de marca ótica em ruby. [Contribua](https://github.com/ruby-marks/ruby-marks)
+
+[Diaper](https://diaper.app/) Um sistema que gerência um banco de fraudas para os que necessitam. [Contribua](https://github.com/rubyforgood/diaper)
