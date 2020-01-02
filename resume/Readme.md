@@ -110,3 +110,5 @@ I was part of the development team and I helped with the project selection proce
 [Central CM42](http://www.centralcm42.com/) Free backlog management system. I am part of the back-end team and review. [Contribute](https://github.com/Codeminer42/cm42-central)
 
 [Ruby Marks](https://en.wikipedia.org/wiki/Optical_mark_recognition) - A simple OMR (Optical Mark Recognition) gem for ruby. [Contribute](https://github.com/ruby-marks/ruby-marks)
+
+[Diaper](https://diaper.app/) The easiest and most love-filled way to manage your diaper bank. [Contribute](https://github.com/rubyforgood/diaper)
