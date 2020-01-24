@@ -33,15 +33,15 @@ Sistema Operacional: Mac os x - Linux
 
 ## Experiência Profissional
 
-**Desenvolvedor back-end** - Neo Med - junho 2019 - Presente
+**Desenvolvedor back-end** - Neo Med - junho 2019 - até a data atual
 
-> Trabalho como developer Ruby on Rails para área de saúde com Marketplace e Software a Serviço (SaaS) de laudos médicos para encurtar a distância entre os sintômas e o paciente. Participo da construção de novas features e manutenção na aplicação e pude desenvolver um projeto de Gateway para comunicação API REST e SOAP Client com os clientes parceiros. Tecnologias utilizadas: Ruby; Rails; Rspec; PostgreSQL; HTML; CSS; DSL Administrate; Elasticsearch; SOAP Client; API REST.
+> Trabalho como desenvolvedor Ruby on Rails para área de saúde com Marketplace e Software como Serviço (SaaS) de laudos médicos para encurtar a distância entre os sintômas e o paciente. Participo da construção de novas features e manutenção na aplicação e pude desenvolver um projeto de Gateway para comunicação API REST e SOAP Client com os clientes parceiros. Tecnologias utilizadas: Ruby; Rails; Rspec; PostgreSQL; HTML; CSS; DSL Administrate; Elasticsearch; SOAP Client; API REST.
 
 
 **Desenvolvedor back-end** - Codeminer42 - Abril 2016 - junho 2019
 
 
-> Trabalhei com consultoria e desenvolvimento de software onde participei de diversos projetos alocado em nas empresas atuando desde a criação a manutenção de sistemas legados.
+> Trabalhei com consultoria e desenvolvimento de software onde participei de diversos projetos alocado em empresas atuando desde a criação a manutenção de sistemas legados.
 
 Empresas na qual fui alocado através da Codeminer42: StarsPremium, Guide Investimentos, Omnitrade, Nexaas, Smart Fit/Bio Ritmo, Achieve Leap, Hospedin, Riot Games.
 
