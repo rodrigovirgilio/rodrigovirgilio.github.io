@@ -16,75 +16,75 @@
 Eu sou um desenvolvedor back-end que estou sempre procurando aprender novas tecnologias e que gosta de trabalhar com projetos desafiadores e criativos.
 
 ## Habilidades
+Sistema Operacional: Mac os x - Linux
 
 * Ruby/Rails/Sinatra
-* PorstgreSQL - MySQL - Redis - Elasticsearch
+* PorstgreSQL - MySQL - ORACLE - SQL Server - Redis - Elasticsearch
 * HTML - Erb
 * Javascript (jQuery)
 * CSS (Sass)
 * CSS Frameworks (Bootstrap, Semantic UI)
 * Git
-* TDD (Rspec - Capybara) e Integração Contínua
+* TDD - Rspec (testes unitários) - Capybara (testes de integração) e Integração Contínua (Gitlab CI - Circle CI - Codeship - Semaphore)
 * DSL ActiveAdmin
-* Scrum and Kanban
-
-
+* AGILE Scrum e Kanban
+* ERP Senior Sistemas - ERP Totvs
 
 
 ## Experiência Profissional
 
 **Desenvolvedor back-end** - Neo Med - junho 2019 - Presente
 
-> Trabalho como developer ruby on rails para área de saúde com marketplace de laudos médicos. Tecnologias utilizadas: Ruby; Rails; Rspec; PostgreSQL; HTML; CSS; Bootstrap.
+> Trabalho como developer Ruby on Rails para área de saúde com Marketplace e Software a Serviço (SaaS) de laudos médicos para encurtar a distância entre os sintômas e o paciente. Participo da construção de novas features e manutenção na aplicação e pude desenvolver um projeto de Gateway para comunicação API REST e SOAP Client com os clientes parceiros. Tecnologias utilizadas: Ruby; Rails; Rspec; PostgreSQL; HTML; CSS; DSL Administrate; Elasticsearch; SOAP Client; API REST.
 
 
 **Desenvolvedor back-end** - Codeminer42 - Abril 2016 - junho 2019
 
 
-> Trabalhei com consultoria e desenvolvimento de software onde participei de diversos projetos atuando desde a criação a manutenção de sistemas.
-Empresas que trabalhei: StarsPremium, Guide Investimentos, Omnitrade, Nexaas, Bio Ritmo Academia, Achieve Leap, Hospedin, Riot Games.
-Tecnologias utilizadas: Ruby; Rails; Rspec; Capybara; ActiveAdmin; Redux; React; JavaScript; HTML; CSS; Bootstrap; PorstgreSQL; MySQL; Redis; Sidekiq; Elasticsearch; API.
+> Trabalhei com consultoria e desenvolvimento de software onde participei de diversos projetos alocado em nas empresas atuando desde a criação a manutenção de sistemas legados.
+
+Empresas na qual fui alocado através da Codeminer42: StarsPremium, Guide Investimentos, Omnitrade, Nexaas, Smart Fit/Bio Ritmo, Achieve Leap, Hospedin, Riot Games.
+
 
 > #### StartsPremium: 
-Gerenciamento de campanhas de vendas que criam recompensam através de metas com programas que geram pontos, prêmios e beneficios para os participantes. Fiz parte do time que deu manutenção e integração de novas campanhas.
+Gerenciamento de campanhas de vendas que criam recompensam através de metas com programas que geram pontos, prêmios e beneficios para os participantes. Fiz parte do time que deu manutenção e integração de novas campanhas. Tecnologias utilizadas: Ruby; Rails; Rspec; Capybara; ActiveAdmin; JavaScript; HTML; CSS; Bootstrap; PorstgreSQL; Redis; Sidekiq; Elasticsearch; API REST.
 
 > #### Guide Investimentos: 
-Investimentos financeiros como fundos de investimento, renda fixa, ações e mercado futuro. Fiz parte do time de fundos de investimentos por um curto período.
+Investimentos financeiros como fundos de investimento, renda fixa, ações e mercado futuro. Fiz parte do time de fundos de investimentos por um curto período participanto em quebrar as rotinas financeiras em microserviços e integração com sistemas legados. Tecnologias utilizadas: Ruby; Rails; Rspec; Capybara; PorstgreSQL; Redis; Sidekiq; API REST.
 
 > #### Omnitrade:
-A mais avançada e segura corretora de criptomoedas do Brasil. Fiz parte do time de back-end.
+A mais avançada e segura corretora de criptomoedas do Brasil. Fiz parte do time de back-end que ajudou na construção do controle administrativo da plataforma. Tecnologias utilizadas: Ruby; Rails; Rspec; Capybara; ActiveAdmin; JavaScript; HTML; CSS; PorstgreSQL; Redis; Sidekiq; API REST.
 
 > #### Nexaas: 
-Soluções empresariais integradas. Fiz parte do time que desenvolveu um produto de integrações de markeplace com a empresa B2W.
+Soluções empresariais integradas. Fiz parte do time que desenvolveu um produto de integrações de markeplace com a empresa B2W através de API REST. Tecnologias utilizadas: Ruby; Rails; Rspec; Capybara; JavaScript; HTML; CSS; PorstgreSQL; Redis; Sidekiq; API REST.
 
-> #### Bio Ritmo Academia:
-É uma rede de academias onde fiz parte do time de um projeto chamado Race Bootcamp onde desenvolvemos e integramos com os diversos sistemas da empresa.
+> #### Smart Fit/Bio Ritmo Academia:
+É uma rede de academias onde fiz parte do time de um projeto chamado Race Bootcamp onde desenvolvemos e integramos com os diversos sistemas da empresa através de API's REST. Tecnologias utilizadas: Ruby; Rails; Rspec; JavaScript; HTML; CSS; PorstgreSQL; Redis; Sidekiq; API REST; Amazon API Gateway.
 
 > #### Achieve Leap:
-É um marketplace onde é possível multiplicar suas vendas com as maiores lojas online do Brasil. Fiz parte do time que fez melhorias no sistema.
+É um marketplace onde é possível multiplicar suas vendas com as maiores e-commerce do Brasil. Fiz parte do time que fez melhorias e manutenção no sistema e comunicação entre eles por API REST. Tecnologias utilizadas: Ruby; Rails; Rspec; JavaScript; NodeJs; HTML; CSS; PorstgreSQL; Redis; Sidekiq; API REST.
 
 > #### Hospedin:
-Sistema de controle de holetaria que busca atrair hoteis e pousadas com um preço justo. Fiz parte do time que fez melhorias no sistema e novas funcionalidades.
+Sistema de controle de holetaria que busca atrair hoteis e pousadas com um preço justo. Fiz parte do time que fez melhorias no sistema e novas funcionalidades como replicar a reservas na agenda dos hospedes. Tecnologias utilizadas: Ruby; Rails; Rspec; Redux; React; JavaScript; HTML; CSS; PorstgreSQL; API REST.
 
 > #### Riot Games:
-Empresa internacional que mantém uma filial de games no Brasil. Fiz parte do time onde fizemos um sistema de chaveamento de times do Brasil para um de seus produtos de jogos chamado LOL League of Legends.
+Empresa internacional que mantém uma filial de games no Brasil. Fiz parte do time onde fizemos um sistema de chaveamento (no estilo tabela de jogos de futebol) de times do game no Brasil para um de seus produtos de jogos chamado LOL League of Legends. Tecnologias utilizadas: Ruby; Rails; Rspec; JavaScript; HTML; CSS; PorstgreSQL; API REST.
 
 **Desenvolvedor back-end** - PROTESTE Brasil - Novembro 2013 - Março 2016
 
-> Empresa similar ao Inmetro no Brasil, mas de origem belga. Trabalha com qualidade, metrologia e tecnologia para seus associados e clientes. Participei do time de desenvolvimento e integração da API. Tecnologias utilizadas: Ruby; Rails; Rspec; JavaScript; HTML; CSS; AngularJS; API.
+> Empresa similar ao Inmetro no Brasil, mas de origem belga. Trabalha com qualidade, metrologia e tecnologia para seus associados e clientes. Participei do time de desenvolvimento e integração da API. Tecnologias utilizadas: Ruby; Rails; Rspec; JavaScript; HTML; CSS; AngularJS; API REST.
 
 **Sócio / Desenvolvedor** - Cotar Agora - Agosto 2013 - Agosto 2014
 
 > Meu sócio e eu desenvolvemos essa solução que é um software de cotação on-line de preços com a idéia de economizar dinheiro na compra de quaisquer produtos e ou materiais. Tecnologias utilizadas: Ruby; Rails; Rspec; PostgreSQL; HTML; CSS; Bootstrap.
 
-**Desenvolvedor back-end** - Centro Universitário Claretino - Novembro 2010 - Junho 2013
+**Desenvolvedor back-end** - Centro Universitário Claretiano - Novembro 2010 - Junho 2013
 
-> Universidade com diversas filiais em todo Brasil onde pude contribuir com o desenvolvimento do processo de seleção de sistemas.
-Fiz parte do time de desenvolvimento e ajudei no projeto de processo de seleção de candidatos. Tecnologias utilizadas: Ruby; Rails; Rspec; MySQL; HTML; CSS.
+> Universidade com diversas filiais em todo Brasil onde pude contribuir com o desenvolvimento do processo seletivo de candidatos e na administração de provas e controle dos alunos. Tecnologias utilizadas: Ruby; Rails; Rspec; MySQL; HTML; CSS; ERP Totvs.
 
 **Desenvolvedor ERP** - Jumil - Fevereiro 2003 - Outubro 2010
 
-> Empresa de implementos agrícolas. Tecnologias utilizadas: LSP (Linguagem Senior de Programação); Oracle.
+> Empresa de implementos agrícolas. Tecnologias utilizadas: ERP Senior Sistemas - LSP (Linguagem Senior de Programação); Oracle.
 
 
 ## Formação
