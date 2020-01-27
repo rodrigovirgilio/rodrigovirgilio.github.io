@@ -1,16 +1,14 @@
 # Rodrigo Luis Virgilio da Silva
 
-**Localização:** Batatais - Brasil
+**Gitlab** [https://gitlab.com/virgilio3](https://gitlab.com/virgilio3)
+
+**Github:** [https://github.com/rodrigovirgilio](https://github.com/rodrigovirgilio)
 
 **Telefone:** +55 (16) 992261963
-
-**Web site:** [virgilio.eti.br](http://virgilio.eti.br)
 
 **E-mail:** virgilio@virgilio.eti.br
 
 **Skype:** rodrigovirgilio
-
-**Github:** rodrigovirgilio
 
 ## Sobre mim
 Eu sou um desenvolvedor back-end que estou sempre procurando aprender novas tecnologias e que gosta de trabalhar com projetos desafiadores e criativos.
