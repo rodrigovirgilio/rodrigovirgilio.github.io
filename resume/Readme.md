@@ -11,6 +11,8 @@
 **Skype:** rodrigovirgilio
 
 ## About me
+Important: My wife is in the process of Italian nationality.
+
 I am a back-end developer who is always looking to learn new technologies and who likes to work with challenging and creative projects.
 
 ## Skills

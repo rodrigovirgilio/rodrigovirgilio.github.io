@@ -11,6 +11,8 @@
 **Skype:** rodrigovirgilio
 
 ## Sobre mim
+Importante: Minha esposa está em processo de cidadania italiana.
+
 Eu sou um desenvolvedor back-end que estou sempre procurando aprender novas tecnologias e que gosta de trabalhar com projetos desafiadores e criativos.
 
 ## Habilidades
