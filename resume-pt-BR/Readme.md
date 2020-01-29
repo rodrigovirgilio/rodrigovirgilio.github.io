@@ -17,7 +17,7 @@ Eu sou um desenvolvedor back-end que estou sempre procurando aprender novas tecn
 Sistema Operacional: Mac os x - Linux
 
 * Ruby/Rails/Sinatra
-* PorstgreSQL - MySQL - ORACLE - SQL Server - Redis - Elasticsearch
+* PostgreSQL - MySQL - ORACLE - SQL Server - Redis - Elasticsearch
 * HTML - Erb
 * Javascript (jQuery)
 * CSS (Sass)
@@ -33,7 +33,7 @@ Sistema Operacional: Mac os x - Linux
 
 **Desenvolvedor back-end** - Neo Med - junho 2019 - até a data atual
 
-> Trabalho como desenvolvedor Ruby on Rails para área de saúde com Marketplace e Software como Serviço (SaaS) de laudos médicos para encurtar a distância entre os sintômas e o paciente. Participo da construção de novas features e manutenção na aplicação e pude desenvolver um projeto de Gateway para comunicação API REST e SOAP Client com os clientes parceiros. Tecnologias utilizadas: Ruby; Rails; Rspec; PostgreSQL; HTML; CSS; DSL Administrate; Elasticsearch; SOAP Client; API REST.
+> Trabalho como desenvolvedor Ruby on Rails para área de saúde com Marketplace e Software como Serviço (SaaS) de laudos médicos para encurtar a distância entre os sintomas e o paciente. Participo da construção de novas features e manutenção na aplicação e pude desenvolver um projeto de Gateway para comunicação API REST e SOAP Client com os clientes parceiros. Tecnologias utilizadas: Ruby; Rails; Rspec; PostgreSQL; HTML; CSS; DSL Administrate; Elasticsearch; SOAP Client; API REST.
 
 
 **Desenvolvedor back-end** - Codeminer42 - Abril 2016 - junho 2019
@@ -45,28 +45,28 @@ Empresas na qual fui alocado através da Codeminer42: StarsPremium, Guide Invest
 
 
 > #### StartsPremium: 
-Gerenciamento de campanhas de vendas que criam recompensam através de metas com programas que geram pontos, prêmios e beneficios para os participantes. Fiz parte do time que deu manutenção e integração de novas campanhas. Tecnologias utilizadas: Ruby; Rails; Rspec; Capybara; ActiveAdmin; JavaScript; HTML; CSS; Bootstrap; PorstgreSQL; Redis; Sidekiq; Elasticsearch; API REST.
+Gerenciamento de campanhas de vendas que criam recompensam através de metas com programas que geram pontos, prêmios e benefícios para os participantes. Fiz parte do time que deu manutenção e integração de novas campanhas. Tecnologias utilizadas: Ruby; Rails; Rspec; Capybara; ActiveAdmin; JavaScript; HTML; CSS; Bootstrap; PostgreSQL; Redis; Sidekiq; Elasticsearch; API REST.
 
 > #### Guide Investimentos: 
-Investimentos financeiros como fundos de investimento, renda fixa, ações e mercado futuro. Fiz parte do time de fundos de investimentos por um curto período participanto em quebrar as rotinas financeiras em microserviços e integração com sistemas legados. Tecnologias utilizadas: Ruby; Rails; Rspec; Capybara; PorstgreSQL; Redis; Sidekiq; API REST.
+Investimentos financeiros como fundos de investimento, renda fixa, ações e mercado futuro. Fiz parte do time de fundos de investimentos dividindo os códigos legados em micro serviços e integração com sistemas legados. Tecnologias utilizadas: Ruby; Rails; Rspec; Capybara; PostgreSQL; Redis; Sidekiq; API REST.
 
 > #### Omnitrade:
-A mais avançada e segura corretora de criptomoedas do Brasil. Fiz parte do time de back-end que ajudou na construção do controle administrativo da plataforma. Tecnologias utilizadas: Ruby; Rails; Rspec; Capybara; ActiveAdmin; JavaScript; HTML; CSS; PorstgreSQL; Redis; Sidekiq; API REST.
+A mais avançada e segura corretora de criptomoedas do Brasil. Fiz parte do time de back-end que ajudou na construção do controle administrativo da plataforma. Tecnologias utilizadas: Ruby; Rails; Rspec; Capybara; ActiveAdmin; JavaScript; HTML; CSS; PostgreSQL; Redis; Sidekiq; API REST.
 
 > #### Nexaas: 
-Soluções empresariais integradas. Fiz parte do time que desenvolveu um produto de integrações de markeplace com a empresa B2W através de API REST. Tecnologias utilizadas: Ruby; Rails; Rspec; Capybara; JavaScript; HTML; CSS; PorstgreSQL; Redis; Sidekiq; API REST.
+Soluções empresariais integradas. Fiz parte do time que desenvolveu um produto de integrações de marketplace com a empresa B2W através de API REST. Tecnologias utilizadas: Ruby; Rails; Rspec; Capybara; JavaScript; HTML; CSS; PostgreSQL; Redis; Sidekiq; API REST.
 
 > #### Smart Fit/Bio Ritmo Academia:
-É uma rede de academias onde fiz parte do time de um projeto chamado Race Bootcamp onde desenvolvemos e integramos com os diversos sistemas da empresa através de API's REST. Tecnologias utilizadas: Ruby; Rails; Rspec; JavaScript; HTML; CSS; PorstgreSQL; Redis; Sidekiq; API REST; Amazon API Gateway.
+É uma rede de academias onde fiz parte do time de um projeto chamado Race Bootcamp onde desenvolvemos e integramos com os diversos sistemas da empresa através de API's REST. Tecnologias utilizadas: Ruby; Rails; Rspec; JavaScript; HTML; CSS; PostgreSQL; Redis; Sidekiq; API REST; Amazon API Gateway.
 
 > #### Achieve Leap:
-É um marketplace onde é possível multiplicar suas vendas com as maiores e-commerce do Brasil. Fiz parte do time que fez melhorias e manutenção no sistema e comunicação entre eles por API REST. Tecnologias utilizadas: Ruby; Rails; Rspec; JavaScript; NodeJs; HTML; CSS; PorstgreSQL; Redis; Sidekiq; API REST.
+É um marketplace onde é possível multiplicar suas vendas com as maiores e-commerce do Brasil. Fiz parte do time que fez melhorias e manutenção no sistema e comunicação entre eles por API REST. Tecnologias utilizadas: Ruby; Rails; Rspec; JavaScript; NodeJs; HTML; CSS; PostgreSQL; Redis; Sidekiq; API REST.
 
 > #### Hospedin:
-Sistema de controle de holetaria que busca atrair hoteis e pousadas com um preço justo. Fiz parte do time que fez melhorias no sistema e novas funcionalidades como replicar a reservas na agenda dos hospedes. Tecnologias utilizadas: Ruby; Rails; Rspec; Redux; React; JavaScript; HTML; CSS; PorstgreSQL; API REST.
+Sistema de controle de hotelaria que busca atrair hotéis e pousadas com um preço justo. Fiz parte do time que fez melhorias no sistema e novas funcionalidades como replicar a reservas na agenda dos hospedes. Tecnologias utilizadas: Ruby; Rails; Rspec; Redux; React; JavaScript; HTML; CSS; PostgreSQL; API REST.
 
 > #### Riot Games:
-Empresa internacional que mantém uma filial de games no Brasil. Fiz parte do time onde fizemos um sistema de chaveamento (no estilo tabela de jogos de futebol) de times do game no Brasil para um de seus produtos de jogos chamado LOL League of Legends. Tecnologias utilizadas: Ruby; Rails; Rspec; JavaScript; HTML; CSS; PorstgreSQL; API REST.
+Empresa internacional que mantém uma filial de games no Brasil. Fiz parte do time onde fizemos um sistema de chaveamento (no estilo tabela de jogos de futebol) de times do game no Brasil para um de seus produtos de jogos chamado LOL League of Legends. Tecnologias utilizadas: Ruby; Rails; Rspec; JavaScript; HTML; CSS; PostgreSQL; API REST.
 
 **Desenvolvedor back-end** - PROTESTE Brasil - Novembro 2013 - Março 2016
 
@@ -109,4 +109,4 @@ Empresa internacional que mantém uma filial de games no Brasil. Fiz parte do ti
 
 [Ruby Marks](https://en.wikipedia.org/wiki/Optical_mark_recognition) Uma gem simples de leitura de marca ótica em ruby. [Contribua](https://github.com/ruby-marks/ruby-marks)
 
-[Diaper](https://diaper.app/) Um sistema que gerência um banco de fraudas para os que necessitam. [Contribua](https://github.com/rubyforgood/diaper)
+[Diaper](https://diaper.app/) Um sistema que gerencia um banco de fraudas para os que necessitam. [Contribua](https://github.com/rubyforgood/diaper)
