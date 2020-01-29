@@ -1,6 +1,6 @@
 # Rodrigo Luis Virgilio da Silva
 
-**Gitlab** [https://gitlab.com/virgilio3](https://gitlab.com/virgilio3)
+**Gitlab:** [https://gitlab.com/virgilio3](https://gitlab.com/virgilio3)
 
 **Github:** [https://github.com/rodrigovirgilio](https://github.com/rodrigovirgilio)
 
