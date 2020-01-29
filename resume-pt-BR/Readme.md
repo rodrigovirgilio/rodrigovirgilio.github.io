@@ -1,6 +1,6 @@
 # Rodrigo Luis Virgilio da Silva
 
-**Gitlab** [https://gitlab.com/virgilio3](https://gitlab.com/virgilio3)
+**Gitlab:** [https://gitlab.com/virgilio3](https://gitlab.com/virgilio3)
 
 **Github:** [https://github.com/rodrigovirgilio](https://github.com/rodrigovirgilio)
 
@@ -103,7 +103,7 @@ Empresa internacional que mantém uma filial de games no Brasil. Fiz parte do ti
 
 [24 hours of conversation based English classes with native speaking tutors on Cambly](https://rodrigovirgilio.github.io/certificates/cambly_certificate.pdf) Cambly - English tutors online.
 
-## Código Aberto (opensource) / Extras
+## Código Aberto (open source) / Extras
 
 [Central CM42](http://www.centralcm42.com/) Sistema gratuito de gerenciamento de backlog. Faço parte do time de back-end e review. [Contribua](https://github.com/Codeminer42/cm42-central)
 
