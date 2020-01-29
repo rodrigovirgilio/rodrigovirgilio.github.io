@@ -101,7 +101,7 @@ I was part of the development team and I helped with the project selection proce
 
 [24 hours of conversation based English classes with native speaking tutors on Cambly](https://rodrigovirgilio.github.io/certificates/cambly_certificate.pdf) Cambly - English tutors online.
 
-## OpenSource / Extras
+## Open Source / Extras
 
 [Central CM42](http://www.centralcm42.com/) Free backlog management system. I am part of the back-end team and review. [Contribute](https://github.com/Codeminer42/cm42-central)
 
