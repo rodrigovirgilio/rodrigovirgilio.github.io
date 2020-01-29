@@ -51,7 +51,7 @@ Financial investments such as investment funds, fixed income, stocks and futures
 The most advanced and secure cryptocurrency broker in Brazil. I was part of the back-end team that helped build the administrative control of the platform. Technologies used: Ruby; Rails; Rspec; Capybara; ActiveAdmin; JavaScript; HTML; CSS; PostgreSQL; Redis; Sidekiq; REST API.
 
 > #### Nexaas: 
-Integrated business solutions. I was part of the team that developed a product of markeplace integrations with the B2W company through REST API. Technologies used: Ruby; Rails; Rspec; Capybara; JavaScript; HTML; CSS; PostgreSQL; Redis; Sidekiq; REST API.
+Integrated business solutions. I was part of the team that developed a product of marketplace integrations with the B2W company through REST API. Technologies used: Ruby; Rails; Rspec; Capybara; JavaScript; HTML; CSS; PostgreSQL; Redis; Sidekiq; REST API.
 
 > #### Bio Ritmo Academia:
 It is a network of gyms where I was part of a project team called Race Bootcamp where we developed and integrated with the company's various systems through API's REST. Technologies used: Ruby; Rails; Rspec; JavaScript; HTML; CSS; PostgreSQL; Redis; Sidekiq; REST API; Amazon API Gateway.
