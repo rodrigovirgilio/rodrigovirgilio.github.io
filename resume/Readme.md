@@ -1,73 +1,69 @@
 # Rodrigo Luis Virgilio da Silva
 
-**Location:** Batatais - Brazil
+**Gitlab** [https://gitlab.com/virgilio3](https://gitlab.com/virgilio3)
 
-**Phone Number:** +55 (16) 992261963
+**Github:** [https://github.com/rodrigovirgilio](https://github.com/rodrigovirgilio)
 
-**Web site:** [virgilio.eti.br](http://virgilio.eti.br)
+**Phone Number:** +55 16 992261963
 
 **E-mail:** virgilio@virgilio.eti.br
 
 **Skype:** rodrigovirgilio
 
-**Github:** rodrigovirgilio
-
 ## About me
 I am a back-end developer who is always looking to learn new technologies and who likes to work with challenging and creative projects.
 
 ## Skills
+Operating System: Mac os x - Linux
 
 * Ruby/Rails/Sinatra
-* PorstgreSQL - MySQL - Redis - Elasticsearch
+* PorstgreSQL - MySQL - Oracle - SQL Server - Redis - Elasticsearch
 * HTML - Erb
 * Javascript (jQuery)
 * CSS (Sass)
 * CSS Frameworks (Bootstrap, Semantic UI)
 * Git
-* TDD (Rspec - Capybara) and Continuous Integration
+* TDD - Rspec (unit tests) - Capybara (integration tests) and Continuous Integration (Gitlab CI - Circle CI - Codeship - Semaphore)
 * DSL ActiveAdmin
-* Scrum and Kanban
-
-
-
+* Agile Scrum and Kanban
+* ERP Totvs
 
 ## Work Experience
 
-**Back-end Developer** - Neo Med - June 2019 - Present
+**Back-end Developer** - Neo Med - June 2019 - to date
 
-> I work as a developer ruby on rails for healthcare with medical report marketplace. Technologies used: Ruby; Rails; Rspec; PostgreSQL; HTML; CSS; Bootstrap.
+> I work as a Ruby on Rails healthcare developer with Marketplace and Software as a Service (SaaS) for medical reports to shorten the distance between symptoms and the patient. I participate in the construction of new features and maintenance in the application and I was able to develop a Gateway project for REST API and SOAP Client communication with partner clients. Technologies used: Ruby; Rails; Rspec; PostgreSQL; HTML; CSS; DSL Administrate; Elasticsearch; SOAP Client; REST API.
 
 
 **Back-end Developer** - Codeminer42 - April 2016 - June 2019
 
+> I worked with consulting and software development where I participated in several projects allocated to companies operating since the creation and maintenance of legacy systems.
 
-> I worked as a consultant and software development where I have participated in several projects ranging from the creation and maintenance of systems.
-Companies I worked for: StarsPremium, Guide Investimentos, Omnitrade, Nexaas, Bio Ritmo Academia, Achieve Leap, Hospedin, Riot Games.
-Technologies used: Ruby; Rails; Rspec; Capybara; ActiveAdmin; Redux; React; JavaScript; HTML; CSS; Bootstrap; PorstgreSQL; MySQL; Redis; Sidekiq; Elasticsearch; API.
+Companies in which I was allocated through Codeminer42: StarsPremium, Guide Investimentos, Omnitrade, Nexaas, Smart Fit/Bio Ritmo, Achieve Leap, Hospedin, Riot Games.
 
 > #### StartsPremium: 
-Management of sales campaigns that create reward through goals with programs that generate points, awards and benefits for the participants. I was part of the team that maintained and integrated new campaigns.
+Management of sales campaigns that create rewards through goals with programs that generate points, prizes and benefits for participants. I was part of the team that maintained and integrated new campaigns. Technologies used: Ruby; Rails; Rspec; Capybara; ActiveAdmin; JavaScript; HTML; CSS; Bootstrap; PorstgreSQL; Redis; Sidekiq; Elasticsearch; REST API.
 
 > #### Guide Investimentos: 
-Financial investments such as investment funds, fixed income, stocks and futures market. I was part of the investment fund team for a short time.
+Financial investments such as investment funds, fixed income, stocks and futures market. I was part of the investment fund team for a short period participating in breaking financial routines in microservices and integration with legacy systems. Technologies used: Ruby; Rails; Rspec; Capybara; PorstgreSQL; Redis; Sidekiq; REST API.
 
 > #### Omnitrade:
-The most advanced and safe crypto-coin broker in Brazil. I was part of the back-end team.
+The most advanced and secure cryptocurrency broker in Brazil. I was part of the back-end team that helped build the administrative control of the platform. Technologies used: Ruby; Rails; Rspec; Capybara; ActiveAdmin; JavaScript; HTML; CSS; PorstgreSQL; Redis; Sidekiq; REST API.
 
 > #### Nexaas: 
-Integrated business solutions. I was part of the team that developed a markeplace integration product with B2W.
+Integrated business solutions. I was part of the team that developed a product of markeplace integrations with the B2W company through REST API. Technologies used: Ruby; Rails; Rspec; Capybara; JavaScript; HTML; CSS; PorstgreSQL; Redis; Sidekiq; REST API.
 
 > #### Bio Ritmo Academia:
-It is a network of academies where I was part of the team of a project called Race Bootcamp where we developed and integrated with the different systems of the company.
+It is a network of gyms where I was part of a project team called Race Bootcamp where we developed and integrated with the company's various systems through API's REST. Technologies used: Ruby; Rails; Rspec; JavaScript; HTML; CSS; PorstgreSQL; Redis; Sidekiq; REST API; Amazon API Gateway.
 
 > #### Achieve Leap:
-It is a marketplace where you can multiply your sales with the largest online stores in Brazil. I was part of the team that made system improvements.
+It is a marketplace where you can multiply your sales with the largest e-commerce in Brazil. I was part of the team that made improvements and maintenance in the system and communication between them by REST API. Technologies used: Ruby; Rails; Rspec; JavaScript; NodeJs; HTML; CSS; PorstgreSQL; Redis; Sidekiq; REST API.
 
 > #### Hospedin:
-Control system that seeks to attract hotels and hostels at a fair price. I was part of the team that made system improvements and new features.
+Holetaria control system that seeks to attract hotels and inns at a fair price. I was part of the team that made improvements to the system and new features such as replicating reservations on the guests' agenda. Technologies used: Ruby; Rails; Rspec; Redux; React; JavaScript; HTML; CSS; PorstgreSQL; REST API.
 
 > #### Riot Games:
-International company that maintains a subsidiary of games in Brazil. I was part of the team where we made a system of switching teams from Brazil to one of their games products called LOL League of Legends.
+International company that maintains a gaming branch in Brazil. I was part of the team where we made a switching system (in the style of a soccer game table) of game teams in Brazil for one of their game products called LOL League of Legends. Technologies used: Ruby; Rails; Rspec; JavaScript; HTML; CSS; PorstgreSQL; REST API.
 
 **Back-end Developer** - PROTESTE Brasil - November 2013 - March 2016
 
