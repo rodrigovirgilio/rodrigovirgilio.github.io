@@ -4,19 +4,20 @@
 
 **Github:** [https://github.com/rodrigovirgilio](https://github.com/rodrigovirgilio)
 
-**Phone Number:** +55 16 992261963
+**Phone Number:** +351 910 952 008
 
 **E-mail:** virgilio@virgilio.eti.br
 
 **Skype:** rodrigovirgilio
 
 ## About me
-Important: My wife is in the process of Italian nationality.
 
-I am a back-end developer who is always looking to learn new technologies and who likes to work with challenging and creative projects.
+I'm a back-end developer who is always looking to learn new technologies and who likes to work with challenging and creative projects. 
+
+I'm living and working in Lisbon, Portugal.
 
 ## Skills
-Operating System: Mac os x - Linux
+Operating System: Mac OS X - Linux - Windows
 
 * Ruby/Rails/Sinatra
 * PostgreSQL - MySQL - Oracle - SQL Server - Redis - Elasticsearch
@@ -32,12 +33,19 @@ Operating System: Mac os x - Linux
 
 ## Work Experience
 
-**Back-end Developer** - Neo Med - June 2019 - to date
+**Software Engineer** - Sysmatch/Glintt - March 2019 - to date
+
+> I work as a computer system analyst and developer and I was allocated at Glintt through Sysmatch for the ANF (Associação Nacional das Farmácias - National Pharmacy Association) project in Portugal.
+
+> #### Glintt:
+
+> I work as a Ruby on Rails developer for the pharmacy sector in Portugal for the company Glintt which is a company based in Portugal of software development where I am part of a team that manages campaigns by Sifarma Saude where one of my responsibilities team is to create campaigns and send notifications to its customers by SMS or E-mail or Push Notificator to the company ANF (Associação Nacional das Farmácias - National Pharmacy Association). I am part of the team that provides maintenance and develops new features and integrations with other systems in the group. Technologies used: Ruby; Rails; JavaScript; HTML; CSS; Angular; MySQL; Redis; Sidekiq; REST API.
+
+**Software Engineer** - Neo Med - June 2019 - to date
 
 > I work as a Ruby on Rails healthcare developer with Marketplace and Software as a Service (SaaS) for medical reports to shorten the distance between symptoms and the patient. I participate in the construction of new features and maintenance in the application and I was able to develop a Gateway project for REST API and SOAP Client communication with partner clients. Technologies used: Ruby; Rails; Rspec; PostgreSQL; HTML; CSS; DSL Administrate; Elasticsearch; SOAP Client; REST API.
 
-
-**Back-end Developer** - Codeminer42 - April 2016 - June 2019
+**Software Engineer** - Codeminer42 - April 2016 - June 2019
 
 > I worked with consulting and software development where I participated in several projects allocated to companies operating since the creation and maintenance of legacy systems.
 
@@ -84,7 +92,6 @@ I was part of the development team and I helped with the project selection proce
 
 > Agricultural implements company. Technologies used: LSP (Senior Programming Language); Oracle.
 
-
 ## Education
 
 **Bacharel Sistemas de Informação - Centro Universitário Claretiano** - 2006/2009
@@ -105,7 +112,7 @@ I was part of the development team and I helped with the project selection proce
 
 ## Open Source / Extras
 
-[Central CM42](http://www.centralcm42.com/) Free backlog management system. I am part of the back-end team and review. [Contribute](https://github.com/Codeminer42/cm42-central)
+[Central CM42](http://www.centralcm42.com/) Free backlog management system. I was part of the back-end team and review. [Contribute](https://github.com/Codeminer42/cm42-central)
 
 [Ruby Marks](https://en.wikipedia.org/wiki/Optical_mark_recognition) - A simple OMR (Optical Mark Recognition) gem for ruby. [Contribute](https://github.com/ruby-marks/ruby-marks)
 
