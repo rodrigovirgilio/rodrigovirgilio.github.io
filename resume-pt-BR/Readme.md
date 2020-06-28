@@ -4,19 +4,20 @@
 
 **Github:** [https://github.com/rodrigovirgilio](https://github.com/rodrigovirgilio)
 
-**Telefone:** +55 (16) 992261963
+**Telefone:** +351 910 952 008
 
 **E-mail:** virgilio@virgilio.eti.br
 
 **Skype:** rodrigovirgilio
 
 ## Sobre mim
-Importante: Minha esposa está em processo de cidadania italiana.
 
 Eu sou um desenvolvedor back-end que estou sempre procurando aprender novas tecnologias e que gosta de trabalhar com projetos desafiadores e criativos.
 
+Estou morando e trabalhando em Lisboa, Portugal.
+
 ## Habilidades
-Sistema Operacional: Mac os x - Linux
+Sistema Operacional: Mac OS X - Linux - Windows
 
 * Ruby/Rails/Sinatra
 * PostgreSQL - MySQL - ORACLE - SQL Server - Redis - Elasticsearch
@@ -30,21 +31,25 @@ Sistema Operacional: Mac os x - Linux
 * AGILE Scrum e Kanban
 * ERP Senior Sistemas - ERP Totvs
 
-
 ## Experiência Profissional
 
-**Desenvolvedor back-end** - Neo Med - junho 2019 - até a data atual
+**Engenheiro de Software** - Sysmatch/Glintt - Março 2020 - até a data atual
+
+> Trabalho como analista e desenvolvedor de sistema de informática e fui alocado na Glintt através da Sysmatch para o projeto da ANF (Associação Nacional das Farmácias) em Portugal.
+
+> #### Glintt:
+
+> Trabalho como desenvolvedor Ruby on Rails para o setor de farmácias em Portugal para a empresa Glintt que é uma empresa com sede em Portugal de desenvolvimento de software onde faço parte de uma equipe que faz o gerenciamento de campanhas pelo Sifarma Saude onde uma das responsabilidades da minha equipe é criar campanhas e enviar notificações à seus clientes por SMS ou E-mail ou Push Notificator para a empresa ANF (Associação Nacional das Farmácias). Faço parte do time que dá a manutenção e desenvolve novas features e integrações com outros sistemas do grupo. Tecnologias utilizadas: Ruby; Rails; JavaScript; HTML; CSS; Angular; MySQL; Redis; Sidekiq; API REST.
+
+**Engenheiro de Software** - Neo Med - junho 2019 - até a data atual
 
 > Trabalho como desenvolvedor Ruby on Rails para área de saúde com Marketplace e Software como Serviço (SaaS) de laudos médicos para encurtar a distância entre os sintomas e o paciente. Participo da construção de novas features e manutenção na aplicação e pude desenvolver um projeto de Gateway para comunicação API REST e SOAP Client com os clientes parceiros. Tecnologias utilizadas: Ruby; Rails; Rspec; PostgreSQL; HTML; CSS; DSL Administrate; Elasticsearch; SOAP Client; API REST.
 
-
 **Desenvolvedor back-end** - Codeminer42 - Abril 2016 - junho 2019
-
 
 > Trabalhei com consultoria e desenvolvimento de software onde participei de diversos projetos alocado em empresas atuando desde a criação a manutenção de sistemas legados.
 
 Empresas na qual fui alocado através da Codeminer42: StarsPremium, Guide Investimentos, Omnitrade, Nexaas, Smart Fit/Bio Ritmo, Achieve Leap, Hospedin, Riot Games.
-
 
 > #### StartsPremium: 
 Gerenciamento de campanhas de vendas que criam recompensam através de metas com programas que geram pontos, prêmios e benefícios para os participantes. Fiz parte do time que deu manutenção e integração de novas campanhas. Tecnologias utilizadas: Ruby; Rails; Rspec; Capybara; ActiveAdmin; JavaScript; HTML; CSS; Bootstrap; PostgreSQL; Redis; Sidekiq; Elasticsearch; API REST.
@@ -86,7 +91,6 @@ Empresa internacional que mantém uma filial de games no Brasil. Fiz parte do ti
 
 > Empresa de implementos agrícolas. Tecnologias utilizadas: ERP Senior Sistemas - LSP (Linguagem Senior de Programação); Oracle.
 
-
 ## Formação
 
 **Bacharel Sistemas de Informação - Centro Universitário Claretiano** - 2006/2009
@@ -107,7 +111,7 @@ Empresa internacional que mantém uma filial de games no Brasil. Fiz parte do ti
 
 ## Código Aberto (open source) / Extras
 
-[Central CM42](http://www.centralcm42.com/) Sistema gratuito de gerenciamento de backlog. Faço parte do time de back-end e review. [Contribua](https://github.com/Codeminer42/cm42-central)
+[Central CM42](http://www.centralcm42.com/) Sistema gratuito de gerenciamento de backlog. Fiz parte do time de back-end e review. [Contribua](https://github.com/Codeminer42/cm42-central)
 
 [Ruby Marks](https://en.wikipedia.org/wiki/Optical_mark_recognition) Uma gem simples de leitura de marca ótica em ruby. [Contribua](https://github.com/ruby-marks/ruby-marks)
 
