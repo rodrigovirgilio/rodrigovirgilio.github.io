@@ -14,7 +14,8 @@
 
 I'm a back-end developer who is always looking to learn new technologies and who likes to work with challenging and creative projects. 
 
-I'm living and working in Lisbon, Portugal.
+I'm living and working in Lisbon, Portugal. 
+My wife has Italian citizenship.
 
 ## Skills
 Operating System: Mac OS X - Linux - Windows
