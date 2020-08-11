@@ -15,6 +15,7 @@
 Eu sou um desenvolvedor back-end que estou sempre procurando aprender novas tecnologias e que gosta de trabalhar com projetos desafiadores e criativos.
 
 Estou morando e trabalhando em Lisboa, Portugal.
+Minha esposa tem cidadania italiana.
 
 ## Habilidades
 Sistema Operacional: Mac OS X - Linux - Windows
