@@ -43,7 +43,7 @@ Operating System: Mac OS X - Linux - Windows
 
 **Software Engineer** - Neo Med - June 2019 - to date
 
-> I work as a Ruby on Rails healthcare developer with Marketplace and Software as a Service (SaaS) for medical reports to shorten the distance between symptoms and the patient. I participate in the construction of new features and maintenance in the application and I was able to develop a Gateway project for REST API and SOAP Client communication with partner clients. Technologies used: Ruby; Rails; Rspec; PostgreSQL; HTML; CSS; DSL Administrate; Elasticsearch; SOAP Client; REST API.
+> I work as a Ruby on Rails healthcare developer with Marketplace and Software as a Service (SaaS) for medical reports to shorten the distance between symptoms and the patient. I participate in the construction of new features and maintenance in the application and I was able to develop a Gateway project for REST API and SOAP Client communication with partner clients. Technologies used: Ruby; Rails; Rspec; PostgreSQL; HTML; CSS; Graphql; Elasticsearch; SOAP Client; REST API.
 
 **Software Engineer** - Codeminer42 - April 2016 - June 2019
 
