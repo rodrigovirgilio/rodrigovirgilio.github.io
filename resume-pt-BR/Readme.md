@@ -21,7 +21,7 @@ Minha esposa tem cidadania italiana.
 Sistema Operacional: Mac OS X - Linux - Windows
 
 * Ruby/Rails/Sinatra
-* PostgreSQL - MySQL - ORACLE - SQL Server - Redis - Elasticsearch
+* PostgreSQL - MySQL - ORACLE - SQL Server - Redis - Elasticsearch - Graphql
 * HTML - Erb
 * Javascript (jQuery)
 * CSS (Sass)
