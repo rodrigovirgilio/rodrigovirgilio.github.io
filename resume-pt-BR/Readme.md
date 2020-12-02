@@ -52,16 +52,16 @@ Sistema Operacional: Mac OS X - Linux - Windows
 
 Empresas na qual fui alocado através da Codeminer42: StarsPremium, Guide Investimentos, Omnitrade, Nexaas, Smart Fit/Bio Ritmo, Achieve Leap, Hospedin, Riot Games.
 
-> #### StartsPremium: 
+> #### StartsPremium:
 Gerenciamento de campanhas de vendas que criam recompensam através de metas com programas que geram pontos, prêmios e benefícios para os participantes. Fiz parte do time que deu manutenção e integração de novas campanhas. Tecnologias utilizadas: Ruby; Rails; Rspec; Capybara; ActiveAdmin; JavaScript; HTML; CSS; Bootstrap; PostgreSQL; Redis; Sidekiq; Elasticsearch; API REST.
 
-> #### Guide Investimentos: 
+> #### Guide Investimentos:
 Investimentos financeiros como fundos de investimento, renda fixa, ações e mercado futuro. Fiz parte do time de fundos de investimentos dividindo os códigos legados em micro serviços e integração com sistemas legados. Tecnologias utilizadas: Ruby; Rails; Rspec; Capybara; PostgreSQL; Redis; Sidekiq; API REST.
 
 > #### Omnitrade:
 A mais avançada e segura corretora de criptomoedas do Brasil. Fiz parte do time de back-end que ajudou na construção do controle administrativo da plataforma. Tecnologias utilizadas: Ruby; Rails; Rspec; Capybara; ActiveAdmin; JavaScript; HTML; CSS; PostgreSQL; Redis; Sidekiq; API REST.
 
-> #### Nexaas: 
+> #### Nexaas:
 Soluções empresariais integradas. Fiz parte do time que desenvolveu um produto de integrações de marketplace com a empresa B2W através de API REST. Tecnologias utilizadas: Ruby; Rails; Rspec; Capybara; JavaScript; HTML; CSS; PostgreSQL; Redis; Sidekiq; API REST.
 
 > #### Smart Fit/Bio Ritmo Academia:

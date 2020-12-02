@@ -12,9 +12,9 @@
 
 ## About me
 
-I'm a back-end developer who is always looking to learn new technologies and who likes to work with challenging and creative projects. 
+I'm a back-end developer who is always looking to learn new technologies and who likes to work with challenging and creative projects.
 
-I'm living and working in Lisbon, Portugal. 
+I'm living and working in Lisbon, Portugal.
 My wife has Italian citizenship.
 
 ## Skills
@@ -34,7 +34,7 @@ Operating System: Mac OS X - Linux - Windows
 
 ## Work Experience
 
-**Software Engineer** - Sysmatch/Glintt - March 2019 - to date
+**Software Engineer** - Sysmatch/Glintt - March 2020 - to date
 
 > I work as a computer system analyst and developer and I was allocated at Glintt through Sysmatch for the ANF (Associação Nacional das Farmácias - National Pharmacy Association) project in Portugal.
 
@@ -52,16 +52,16 @@ Operating System: Mac OS X - Linux - Windows
 
 Companies in which I was allocated through Codeminer42: StarsPremium, Guide Investimentos, Omnitrade, Nexaas, Smart Fit/Bio Ritmo, Achieve Leap, Hospedin, Riot Games.
 
-> #### StartsPremium: 
+> #### StartsPremium:
 Management of sales campaigns that create rewards through goals with programs that generate points, prizes and benefits for participants. I was part of the team that maintained and integrated new campaigns. Technologies used: Ruby; Rails; Rspec; Capybara; ActiveAdmin; JavaScript; HTML; CSS; Bootstrap; PostgreSQL; Redis; Sidekiq; Elasticsearch; REST API.
 
-> #### Guide Investimentos: 
+> #### Guide Investimentos:
 Financial investments such as investment funds, fixed income, stocks and futures market. I was part of the investment fund team for a short period participating in breaking financial routines in microservices and integration with legacy systems. Technologies used: Ruby; Rails; Rspec; Capybara; PostgreSQL; Redis; Sidekiq; REST API.
 
 > #### Omnitrade:
 The most advanced and secure cryptocurrency broker in Brazil. I was part of the back-end team that helped build the administrative control of the platform. Technologies used: Ruby; Rails; Rspec; Capybara; ActiveAdmin; JavaScript; HTML; CSS; PostgreSQL; Redis; Sidekiq; REST API.
 
-> #### Nexaas: 
+> #### Nexaas:
 Integrated business solutions. I was part of the team that developed a product of marketplace integrations with the B2W company through REST API. Technologies used: Ruby; Rails; Rspec; Capybara; JavaScript; HTML; CSS; PostgreSQL; Redis; Sidekiq; REST API.
 
 > #### Bio Ritmo Academia:
