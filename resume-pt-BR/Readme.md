@@ -34,7 +34,15 @@ Sistema Operacional: Mac OS X - Linux - Windows
 
 ## Experiência Profissional
 
-**Engenheiro de Software** - Sysmatch/Glintt - Março 2020 - até a data atual
+**Engenheiro de Software** - Nearshore/Voith - Abril 2021 - até a data atual
+
+> Trabalho como analista e desenvolvedor de sistemas de informática e fui alocado na Voith através da Nearshore Portugal para a equipe da Drive.
+
+> #### Voith:
+
+> Trabalho como desenvolvedor Ruby on Rails para o setor de gestão de plataformas de aprendizagem no escritório em Portugal da empresa Voith que é uma empresa com sede na Alemanha onde faço parte de uma equipe que gerencia cursos de Voith na Drive4YOU e outras instâncias onde toda equipe tem a responsabilidades de manter as instâncias na AWS e desenvolver o código existente para novos clientes. Tecnologias utilizadas: Ruby; Rails; JavaScript; HTML; CSS; Bootstrap; MySQL; Redis; Sidekiq.
+
+**Engenheiro de Software** - Sysmatch/Glintt - Março 2020 - Abril 2021
 
 > Trabalho como analista e desenvolvedor de sistema de informática e fui alocado na Glintt através da Sysmatch para o projeto da ANF (Associação Nacional das Farmácias) em Portugal.
 
