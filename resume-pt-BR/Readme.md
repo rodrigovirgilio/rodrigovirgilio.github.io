@@ -34,7 +34,7 @@ Sistema Operacional: Mac OS X - Linux - Windows
 
 ## Experiência Profissional
 
-**Software Engineer** - Nearshore/Voith - Abril 2021 - até a data atual
+**Engenheiro de Software** - Nearshore/Voith - Abril 2021 - até a data atual
 
 > Trabalho como analista e desenvolvedor de sistemas de informática e fui alocado na Voith através da Nearshore Portugal para a equipe da Drive.
 
