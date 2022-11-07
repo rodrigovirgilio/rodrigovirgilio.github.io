@@ -41,6 +41,7 @@ Operating System: Mac OS X - Linux - Windows
 > #### iCapital:
 
 > I work as a Ruby on Rails and React.js developer for financial transaction processing (fintech) at the office in Portugal for the company iCapital Network which is a company based in the United States of America (USA) where I'm part of a team that manages Fund Finance where one of my responsibilities of the team is to create new features and improve the code and performance of the existing code. Technologies used: Ruby; Rails; JavaScript; HTML; CSS; React; PostgreSql; Redis; Sidekiq, Pusher, Elasticsearch.
+
 **Software Engineer** - Nearshore/Voith - April 2021 - April 2022
 
 > I worked as a computer system analyst and developer and I was allocated at Voith through Nearshore Portugal for the team of the Drive.
