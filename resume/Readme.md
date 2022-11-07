@@ -34,25 +34,32 @@ Operating System: Mac OS X - Linux - Windows
 
 ## Work Experience
 
-**Software Engineer** - Nearshore/Voith - April 2021 - to date
+**Software Engineer** - iCapital - May 2021 - to date
 
-> I work as a computer system analyst and developer and I was allocated at Voith through Nearshore Portugal for the team of the Drive.
+> I work as a computer system analyst and developer for the company of the iCapital.
+
+> #### iCapital:
+
+> I work as a Ruby on Rails and React.js developer for financial transaction processing (fintech) at the office in Portugal for the company iCapital Network which is a company based in the United States of America (USA) where I'm part of a team that manages Fund Finance where one of my responsibilities of the team is to create new features and improve the code and performance of the existing code. Technologies used: Ruby; Rails; JavaScript; HTML; CSS; React; PostgreSql; Redis; Sidekiq, Pusher, Elasticsearch.
+**Software Engineer** - Nearshore/Voith - April 2021 - April 2022
+
+> I worked as a computer system analyst and developer and I was allocated at Voith through Nearshore Portugal for the team of the Drive.
 
 > #### Voith:
 
-> I work as a Ruby on Rails developer for the learning platform management sector in the office in Portugal for the company Voith which is a company based in Germany where I am part of a team that manages Voith courses at Drive4YOU and another instances where one of my responsibilities team is to maintain the instances on AWS and evolve the existing code for new customers. Technologies used: Ruby; Rails; JavaScript; HTML; CSS; Bootstrap; MySQL; Redis; Sidekiq.
+> I worked as a Ruby on Rails developer for the learning platform management sector in the office in Portugal for the company Voith which is a company based in Germany where I am part of a team that manages Voith courses at Drive4YOU and another instances where one of my responsibilities team is to maintain the instances on AWS and evolve the existing code for new customers. Technologies used: Ruby; Rails; JavaScript; HTML; CSS; Bootstrap; MySQL; Redis; Sidekiq.
 
 **Software Engineer** - Sysmatch/Glintt - March 2020 - April 2021
 
-> I work as a computer system analyst and developer and I was allocated at Glintt through Sysmatch for the ANF (Associação Nacional das Farmácias - National Pharmacy Association) project in Portugal.
+> I worked as a computer system analyst and developer and I was allocated at Glintt through Sysmatch for the ANF (Associação Nacional das Farmácias - National Pharmacy Association) project in Portugal.
 
 > #### Glintt:
 
-> I work as a Ruby on Rails developer for the pharmacy sector in Portugal for the company Glintt which is a company based in Portugal of software development where I am part of a team that manages campaigns by Sifarma Saude where one of my responsibilities team is to create campaigns and send notifications to its customers by SMS or E-mail or Push Notificator to the company ANF (Associação Nacional das Farmácias - National Pharmacy Association). I am part of the team that provides maintenance and develops new features and integrations with other systems in the group. Technologies used: Ruby; Rails; JavaScript; HTML; CSS; Angular; MySQL; Redis; Sidekiq; REST API.
+> I worked as a Ruby on Rails developer for the pharmacy sector in Portugal for the company Glintt which is a company based in Portugal of software development where I am part of a team that manages campaigns by Sifarma Saude where one of my responsibilities team is to create campaigns and send notifications to its customers by SMS or E-mail or Push Notificator to the company ANF (Associação Nacional das Farmácias - National Pharmacy Association). I am part of the team that provides maintenance and develops new features and integrations with other systems in the group. Technologies used: Ruby; Rails; JavaScript; HTML; CSS; Angular; MySQL; Redis; Sidekiq; REST API.
 
 **Software Engineer** - Neo Med - June 2019 - to date
 
-> I work as a Ruby on Rails healthcare developer with Marketplace and Software as a Service (SaaS) for medical reports to shorten the distance between symptoms and the patient. I participate in the construction of new features and maintenance in the application and I was able to develop a Gateway project for REST API and SOAP Client communication with partner clients. Technologies used: Ruby; Rails; Rspec; PostgreSQL; HTML; CSS; Graphql; Elasticsearch; SOAP Client; REST API.
+> I worked as a Ruby on Rails healthcare developer with Marketplace and Software as a Service (SaaS) for medical reports to shorten the distance between symptoms and the patient. I participate in the construction of new features and maintenance in the application and I was able to develop a Gateway project for REST API and SOAP Client communication with partner clients. Technologies used: Ruby; Rails; Rspec; PostgreSQL; HTML; CSS; Graphql; Elasticsearch; SOAP Client; REST API.
 
 **Software Engineer** - Codeminer42 - April 2016 - June 2019
 

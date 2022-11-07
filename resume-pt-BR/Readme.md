@@ -34,9 +34,17 @@ Sistema Operacional: Mac OS X - Linux - Windows
 
 ## Experiência Profissional
 
-**Engenheiro de Software** - Nearshore/Voith - Abril 2021 - até a data atual
+**Engenheiro de Software** - iCapital - Maio 2022 - até a data atual
 
-> Trabalho como analista e desenvolvedor de sistemas de informática e fui alocado na Voith através da Nearshore Portugal para a equipe da Drive.
+> Trabalho como analista de sistemas de informática e desenvolvedor para a empresa iCapital Network.
+
+> #### iCapital:
+
+> Trabalho como desenvolvedor Ruby on Rails e React.js para processamento de transações financeiras (fintech) no escritório em Portugal da empresa iCapital Network que é uma empresa sediada nos Estados Unidos da América (EUA) onde faço parte de uma equipe que gerencia o Fund Finance onde uma das minhas responsabilidades da equipe é criar novas funcionalidades e melhorar o código e desempenho do código existente. Tecnologias utilizadas: Ruby; Rails; JavaScript; HTML; CSS; React; PostgreSql; Redis; Sidekiq, Pusher, Elasticsearch.
+
+**Engenheiro de Software** - Nearshore/Voith - Abril 2021 - Abril 2022
+
+> Trabalhei como analista e desenvolvedor de sistemas de informática e fui alocado na Voith através da Nearshore Portugal para a equipe da Drive.
 
 > #### Voith:
 
@@ -44,15 +52,15 @@ Sistema Operacional: Mac OS X - Linux - Windows
 
 **Engenheiro de Software** - Sysmatch/Glintt - Março 2020 - Abril 2021
 
-> Trabalho como analista e desenvolvedor de sistema de informática e fui alocado na Glintt através da Sysmatch para o projeto da ANF (Associação Nacional das Farmácias) em Portugal.
+> Trabalhei como analista e desenvolvedor de sistema de informática e fui alocado na Glintt através da Sysmatch para o projeto da ANF (Associação Nacional das Farmácias) em Portugal.
 
 > #### Glintt:
 
-> Trabalho como desenvolvedor Ruby on Rails para o setor de farmácias em Portugal para a empresa Glintt que é uma empresa com sede em Portugal de desenvolvimento de software onde faço parte de uma equipe que faz o gerenciamento de campanhas pelo Sifarma Saude onde uma das responsabilidades da minha equipe é criar campanhas e enviar notificações à seus clientes por SMS ou E-mail ou Push Notificator para a empresa ANF (Associação Nacional das Farmácias). Faço parte do time que dá a manutenção e desenvolve novas features e integrações com outros sistemas do grupo. Tecnologias utilizadas: Ruby; Rails; JavaScript; HTML; CSS; Angular; MySQL; Redis; Sidekiq; API REST.
+> Trabalhei como desenvolvedor Ruby on Rails para o setor de farmácias em Portugal para a empresa Glintt que é uma empresa com sede em Portugal de desenvolvimento de software onde faço parte de uma equipe que faz o gerenciamento de campanhas pelo Sifarma Saude onde uma das responsabilidades da minha equipe é criar campanhas e enviar notificações à seus clientes por SMS ou E-mail ou Push Notificator para a empresa ANF (Associação Nacional das Farmácias). Faço parte do time que dá a manutenção e desenvolve novas features e integrações com outros sistemas do grupo. Tecnologias utilizadas: Ruby; Rails; JavaScript; HTML; CSS; Angular; MySQL; Redis; Sidekiq; API REST.
 
 **Engenheiro de Software** - Neo Med - junho 2019 - até a data atual
 
-> Trabalho como desenvolvedor Ruby on Rails para área de saúde com Marketplace e Software como Serviço (SaaS) de laudos médicos para encurtar a distância entre os sintomas e o paciente. Participo da construção de novas features e manutenção na aplicação e pude desenvolver um projeto de Gateway para comunicação API REST e SOAP Client com os clientes parceiros. Tecnologias utilizadas: Ruby; Rails; Rspec; PostgreSQL; HTML; CSS; Graphql; Elasticsearch; SOAP Client; API REST.
+> Trabalhei como desenvolvedor Ruby on Rails para área de saúde com Marketplace e Software como Serviço (SaaS) de laudos médicos para encurtar a distância entre os sintomas e o paciente. Participo da construção de novas features e manutenção na aplicação e pude desenvolver um projeto de Gateway para comunicação API REST e SOAP Client com os clientes parceiros. Tecnologias utilizadas: Ruby; Rails; Rspec; PostgreSQL; HTML; CSS; Graphql; Elasticsearch; SOAP Client; API REST.
 
 **Desenvolvedor back-end** - Codeminer42 - Abril 2016 - junho 2019
 
