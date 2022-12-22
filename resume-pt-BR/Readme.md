@@ -34,13 +34,21 @@ Sistema Operacional: Mac OS X - Linux - Windows
 
 ## Experiência Profissional
 
-**Engenheiro de Software** - iCapital - Maio 2022 - até a data atual
+**Engenheiro de Software** - Real Fevr - Novembro 2022 - até a data atual
 
-> Trabalho como analista de sistemas de informática e desenvolvedor para a empresa iCapital Network.
+> Trabalho como analista de sistemas de informática e desenvolvedor para a empresa Real Fevr.
+
+> #### Real Fevr:
+
+> Trabalho como desenvolvedor Ruby on Rails com Web3 a construir um ecossistema de jogos ambicioso em torno de NFT colecionáveis ​​digitais desportivos licenciados. Minhas responsabilidades e da equipe é criar novas funcionalidades e melhorar o código e desempenho do código existente. Tecnologias utilizadas: Ruby; Rails; JavaScript; HTML; CSS; PostgreSql; Redis; Sidekiq, MongoDB.
+
+**Engenheiro de Software** - iCapital - Maio 2022 - Outubro 2022
+
+> Trabalhei como analista de sistemas de informática e desenvolvedor para a empresa iCapital Network.
 
 > #### iCapital:
 
-> Trabalho como desenvolvedor Ruby on Rails e React.js para processamento de transações financeiras (fintech) no escritório em Portugal da empresa iCapital Network que é uma empresa sediada nos Estados Unidos da América (EUA) onde faço parte de uma equipe que gerencia o Fund Finance onde uma das minhas responsabilidades da equipe é criar novas funcionalidades e melhorar o código e desempenho do código existente. Tecnologias utilizadas: Ruby; Rails; JavaScript; HTML; CSS; React; PostgreSql; Redis; Sidekiq, Pusher, Elasticsearch.
+> Trabalhei como desenvolvedor Ruby on Rails e React.js para processamento de transações financeiras (fintech) no escritório em Portugal da empresa iCapital Network que é uma empresa sediada nos Estados Unidos da América (EUA) onde faço parte de uma equipe que gerencia o Fund Finance onde uma das minhas responsabilidades da equipe é criar novas funcionalidades e melhorar o código e desempenho do código existente. Tecnologias utilizadas: Ruby; Rails; JavaScript; HTML; CSS; React; PostgreSql; Redis; Sidekiq, Pusher, Elasticsearch.
 
 **Engenheiro de Software** - Nearshore/Voith - Abril 2021 - Abril 2022
 
@@ -48,7 +56,7 @@ Sistema Operacional: Mac OS X - Linux - Windows
 
 > #### Voith:
 
-> Trabalho como desenvolvedor Ruby on Rails para o setor de gestão de plataformas de aprendizagem no escritório em Portugal da empresa Voith que é uma empresa com sede na Alemanha onde faço parte de uma equipe que gerencia cursos de Voith na Drive4YOU e outras instâncias onde toda equipe tem a responsabilidades de manter as instâncias na AWS e desenvolver o código existente para novos clientes. Tecnologias utilizadas: Ruby; Rails; JavaScript; HTML; CSS; Bootstrap; MySQL; Redis; Sidekiq.
+> Trabalhei como desenvolvedor Ruby on Rails para o setor de gestão de plataformas de aprendizagem no escritório em Portugal da empresa Voith que é uma empresa com sede na Alemanha onde faço parte de uma equipe que gerencia cursos de Voith na Drive4YOU e outras instâncias onde toda equipe tem a responsabilidades de manter as instâncias na AWS e desenvolver o código existente para novos clientes. Tecnologias utilizadas: Ruby; Rails; JavaScript; HTML; CSS; Bootstrap; MySQL; Redis; Sidekiq.
 
 **Engenheiro de Software** - Sysmatch/Glintt - Março 2020 - Abril 2021
 
