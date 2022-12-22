@@ -34,13 +34,21 @@ Operating System: Mac OS X - Linux - Windows
 
 ## Work Experience
 
-**Software Engineer** - iCapital - May 2021 - to date
+**Software Engineer** - Real Fevr - Nov 2022 - to date
 
-> I work as a computer system analyst and developer for the company of the iCapital.
+> I work as a computer systems analyst and developer for the company Real Fevr.
+
+> #### Real Fevr:
+
+> I work as a Ruby on Rails developer with Web3 building an ambitious gaming ecosystem around licensed sports digital collectible NFT. My team responsibilities is to create new features and improve code and performance of existing code. Technologies used: Ruby; Rails; JavaScript; HTML; CSS; PostgreSql; Redis; Sidekiq, MongoDB.
+
+**Software Engineer** - iCapital - May 2022 - Oct 2022
+
+> I worked as a computer system analyst and developer for the company of the iCapital.
 
 > #### iCapital:
 
-> I work as a Ruby on Rails and React.js developer for financial transaction processing (fintech) at the office in Portugal for the company iCapital Network which is a company based in the United States of America (USA) where I'm part of a team that manages Fund Finance where one of my responsibilities of the team is to create new features and improve the code and performance of the existing code. Technologies used: Ruby; Rails; JavaScript; HTML; CSS; React; PostgreSql; Redis; Sidekiq, Pusher, Elasticsearch.
+> I worked as a Ruby on Rails and React.js developer for financial transaction processing (fintech) at the office in Portugal for the company iCapital Network which is a company based in the United States of America (USA) where I'm part of a team that manages Fund Finance where one of my responsibilities of the team is to create new features and improve the code and performance of the existing code. Technologies used: Ruby; Rails; JavaScript; HTML; CSS; React; PostgreSql; Redis; Sidekiq, Pusher, Elasticsearch.
 
 **Software Engineer** - Nearshore/Voith - April 2021 - April 2022
 
