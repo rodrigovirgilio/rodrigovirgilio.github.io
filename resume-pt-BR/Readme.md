@@ -32,13 +32,13 @@ Sistema Operacional: Mac OS X - Linux - Windows
 
 ## Experiência Profissional
 
-**Engenheiro de Software** - Real Fevr - Novembro 2022 - até a data atual
+**Engenheiro de Software** - RealFevr - Novembro 2022 - até a data atual
 
-> Trabalho como analista de sistemas de informática e desenvolvedor para a empresa Real Fevr.
+> Trabalho como analista de sistemas de informática e desenvolvedor para a empresa RealFevr.
 
-> #### Real Fevr:
+> #### RealFevr:
 
-> Trabalho como desenvolvedor Ruby on Rails com Web3 a construir um ecossistema de jogos ambicioso em torno de NFT colecionáveis ​​digitais desportivos licenciados. Minhas responsabilidades e da equipe é criar novas funcionalidades e melhorar o código e desempenho do código existente. Tecnologias utilizadas: Ruby; Rails; JavaScript; HTML; CSS; PostgreSql; Redis; Sidekiq, MongoDB.
+> Trabalho como desenvolvedor Ruby on Rails com Web3 a construir um ecossistema de jogos ambicioso em torno de NFT colecionáveis ​​digitais desportivos licenciados. Minhas responsabilidades e da equipe é criar novas funcionalidades e melhorar o código e desempenho do código existente. Tecnologias utilizadas: Ruby; Rails; JavaScript; HTML; CSS; PostgreSql; Redis; Sidekiq, MongoDB, Kubernates, Kafka/RabbitMQ.
 
 **Engenheiro de Software** - iCapital - Maio 2022 - Outubro 2022
 
