@@ -12,10 +12,8 @@
 
 ## About me
 
-I'm a back-end developer who is always looking to learn new technologies and who likes to work with challenging and creative projects.
-
-I'm living and working in Lisbon, Portugal.
-My wife has Italian citizenship.
+I have more than 10 years of experience and I specialize in Back-end Ruby on Rails. Building and supporting small, medium and large companies. Whether in monolithic or microservice projects, all using agile methodologies.
+I'm always looking to learn new technologies and enjoy working on challenging and creative projects.
 
 ## Skills
 Operating System: Mac OS X - Linux - Windows
@@ -30,7 +28,7 @@ Operating System: Mac OS X - Linux - Windows
 * TDD - Rspec (unit tests) - Capybara (integration tests) and Continuous Integration (Gitlab CI - Circle CI - Codeship - Semaphore)
 * DSL ActiveAdmin
 * Agile Scrum and Kanban
-* ERP Totvs
+* Kafka/RabbitMQ
 
 ## Work Experience
 

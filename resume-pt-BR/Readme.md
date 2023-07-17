@@ -12,10 +12,8 @@
 
 ## Sobre mim
 
-Eu sou um desenvolvedor back-end que estou sempre procurando aprender novas tecnologias e que gosta de trabalhar com projetos desafiadores e criativos.
-
-Estou morando e trabalhando em Lisboa, Portugal.
-Minha esposa tem cidadania italiana.
+Tenho mais de 10 anos de experiência e sou especialista em Back-end Ruby on Rails. Construindo e apoiando pequenas, médias e grandes empresas. Seja em projetos monolíticos ou de microsserviços, todos utilizando metodologias ágeis.
+Estou sempre procurando aprender novas tecnologias e que gosta de trabalhar com projetos desafiadores e criativos.
 
 ## Habilidades
 Sistema Operacional: Mac OS X - Linux - Windows
@@ -30,7 +28,7 @@ Sistema Operacional: Mac OS X - Linux - Windows
 * TDD - Rspec (testes unitários) - Capybara (testes de integração) e Integração Contínua (Gitlab CI - Circle CI - Codeship - Semaphore)
 * DSL ActiveAdmin
 * AGILE Scrum e Kanban
-* ERP Senior Sistemas - ERP Totvs
+* Kafka/RabbitMQ
 
 ## Experiência Profissional
 
