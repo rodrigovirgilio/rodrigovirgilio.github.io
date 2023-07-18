@@ -64,7 +64,7 @@ Operating System: Mac OS X - Linux - Windows
 
 > I worked as a Ruby on Rails developer for the pharmacy sector in Portugal for the company Glintt which is a company based in Portugal of software development where I am part of a team that manages campaigns by Sifarma Saude where one of my responsibilities team is to create campaigns and send notifications to its customers by SMS or E-mail or Push Notificator to the company ANF (Associação Nacional das Farmácias - National Pharmacy Association). I am part of the team that provides maintenance and develops new features and integrations with other systems in the group. Technologies used: Ruby; Rails; JavaScript; HTML; CSS; Angular; MySQL; Redis; Sidekiq; REST API.
 
-**Software Engineer** - Neo Med - June 2019 - to date
+**Software Engineer** - Neo Med - June 2019 - March 2020 (part-time from March 2020 to April 2023)
 
 > I worked as a Ruby on Rails healthcare developer with Marketplace and Software as a Service (SaaS) for medical reports to shorten the distance between symptoms and the patient. I participate in the construction of new features and maintenance in the application and I was able to develop a Gateway project for REST API and SOAP Client communication with partner clients. Technologies used: Ruby; Rails; Rspec; PostgreSQL; HTML; CSS; Graphql; Elasticsearch; SOAP Client; REST API.
 
