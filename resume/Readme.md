@@ -57,10 +57,6 @@ Operating System: Mac OS X - Linux - Windows
 
 > I worked as a Ruby on Rails healthcare developer with Marketplace and Software as a Service (SaaS) for medical reports to shorten the distance between symptoms and the patient. I participate in the construction of new features and maintenance in the application and I was able to develop a Gateway project for REST API and SOAP Client communication with partner clients. Technologies used: Ruby, Rails, Rspec, PostgreSQL, HTML, CSS, Graphql, Elasticsearch, SOAP Client and REST API.
 
-<details>
-<summary>More work experiences</summary>
-
-
 **Software Engineer** - Codeminer42 - April 2016 - June 2019
 
 > I worked with consulting and software development where I participated in several projects allocated to companies operating since the creation and maintenance of legacy systems.
@@ -116,7 +112,6 @@ Technologies used: Ruby; Rails; Rspec; MySQL; HTML; CSS.
 **Developer ERP** - Jumil - February 2003 - October 2010
 
 > Agricultural implements company. Technologies used: LSP (Senior Programming Language) and Oracle.
-</details>
 
 ## Education
 

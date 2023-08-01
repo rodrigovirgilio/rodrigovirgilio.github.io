@@ -58,10 +58,6 @@ Sistema Operacional: Mac OS X - Linux - Windows
 
 > Trabalhei como desenvolvedor Ruby on Rails para área de saúde com Marketplace e Software como Serviço (SaaS) de laudos médicos para encurtar a distância entre os sintomas e o paciente. Participo da construção de novas features e manutenção na aplicação e pude desenvolver um projeto de Gateway para comunicação API REST e SOAP Client com os clientes parceiros. Tecnologias utilizadas: Ruby, Rails, Rspec, PostgreSQL, HTML, CSS, Graphql, Elasticsearch, SOAP Client e API REST.
 
-<details>
-<summary>Mais experiências profissionais</summary>
-
-
 **Desenvolvedor back-end** - Codeminer42 - Abril 2016 - junho 2019
 
 > Trabalhei com consultoria e desenvolvimento de software onde participei de diversos projetos alocado em empresas atuando desde a criação a manutenção de sistemas legados.
@@ -107,8 +103,6 @@ Empresa internacional que mantém uma filial de games no Brasil. Fiz parte do ti
 **Desenvolvedor ERP** - Jumil - Fevereiro 2003 - Outubro 2010
 
 > Empresa de implementos agrícolas. Tecnologias utilizadas: ERP Senior Sistemas - LSP (Linguagem Senior de Programação) e Oracle.
-</details>
-
 ## Formação
 
 **Bacharel Sistemas de Informação - Centro Universitário Claretiano** - 2006/2009
