@@ -2,13 +2,9 @@
 
 ## Contact
 
-| LinkedIn  | Gitlab | Github |
-| --------- | ------ | ------ |
-| [https://www.linkedin.com/in/rodrigo-virgilio](https://www.linkedin.com/in/rodrigo-virgilio) | [https://gitlab.com/virgilio3](https://gitlab.com/virgilio3) | [https://github.com/rodrigovirgilio](https://github.com/rodrigovirgilio) |
-
-| Phone Number:    | E-mail |
-| ---------------- | ------ |
-| +351 910 952 008 | virgilio@virgilio.eti.br |
+| LinkedIn  | Gitlab | Github | Phone Number  | E-mail |
+| --------- | ------ | ------ | ------------- | ------ |
+| [https://www.linkedin.com/in/rodrigo-virgilio](https://www.linkedin.com/in/rodrigo-virgilio) | [https://gitlab.com/virgilio3](https://gitlab.com/virgilio3) | [https://github.com/rodrigovirgilio](https://github.com/rodrigovirgilio) | +351 910 952 008 | virgilio@virgilio.eti.br |
 
 ## About me
 
