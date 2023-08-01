@@ -1,14 +1,8 @@
 # Rodrigo Luis Virgilio da Silva
 
-**Gitlab:** [https://gitlab.com/virgilio3](https://gitlab.com/virgilio3)
+**LinkedIn:** [https://www.linkedin.com/in/rodrigo-virgilio](https://www.linkedin.com/in/rodrigo-virgilio) | **Gitlab:** [https://gitlab.com/virgilio3](https://gitlab.com/virgilio3) | **Github:** [https://github.com/rodrigovirgilio](https://github.com/rodrigovirgilio)
 
-**Github:** [https://github.com/rodrigovirgilio](https://github.com/rodrigovirgilio)
-
-**Telefone:** +351 910 952 008
-
-**E-mail:** virgilio@virgilio.eti.br
-
-**Skype:** rodrigovirgilio
+**Telefone:** +351 910 952 008 | **E-mail:** virgilio@virgilio.eti.br
 
 ## Sobre mim
 
@@ -18,17 +12,11 @@ Estou sempre procurando aprender novas tecnologias e que gosta de trabalhar com 
 ## Habilidades
 Sistema Operacional: Mac OS X - Linux - Windows
 
-* Ruby/Rails/Sinatra
-* PostgreSQL - MySQL - ORACLE - SQL Server - Redis - Elasticsearch - Graphql
-* HTML - Erb
-* Javascript (jQuery)
-* CSS (Sass)
-* CSS Frameworks (Bootstrap, Semantic UI)
-* Git
-* TDD - Rspec (testes unitários) - Capybara (testes de integração) e Integração Contínua (Gitlab CI - Circle CI - Codeship - Semaphore)
-* DSL ActiveAdmin
-* AGILE Scrum e Kanban
-* Kafka/RabbitMQ
+* Ruby/Rails/Sinatra | DSL ActiveAdmin
+* TDD - Rspec (unit tests) - Capybara (integration tests) and Continuous Integration (Gitlab CI - Circle CI - Codeship - Semaphore)
+* PostgreSQL - MySQL - Oracle - SQL Server - Redis - Elasticsearch - Graphql
+* HTML - Erb | Javascript (jQuery) | CSS (Sass) | CSS Frameworks (Bootstrap, Semantic UI)
+* Git | Agile Scrum and Kanban | Kafka/RabbitMQ
 
 ## Experiência Profissional
 
@@ -38,7 +26,7 @@ Sistema Operacional: Mac OS X - Linux - Windows
 
 > #### RealFevr:
 
-> Trabalho como desenvolvedor Ruby on Rails com Web3 a construir um ecossistema de jogos ambicioso em torno de NFT colecionáveis ​​digitais desportivos licenciados. Minhas responsabilidades e da equipe é criar novas funcionalidades e melhorar o código e desempenho do código existente. Tecnologias utilizadas: Ruby; Rails; JavaScript; HTML; CSS; PostgreSql; Redis; Sidekiq, MongoDB, Kubernates, Kafka/RabbitMQ.
+> Trabalho como desenvolvedor Ruby on Rails com Web3 a construir um ecossistema de jogos ambicioso em torno de NFT colecionáveis ​​digitais desportivos licenciados. Minhas responsabilidades e da equipe é criar novas funcionalidades e melhorar o código e desempenho do código existente. Tecnologias utilizadas: Ruby, Rails, JavaScript, HTML, CSS, PostgreSql, Redis, Sidekiq, MongoDB, Kubernates e Kafka/RabbitMQ.
 
 **Engenheiro de Software** - iCapital - Maio 2022 - Outubro 2022
 
@@ -46,7 +34,7 @@ Sistema Operacional: Mac OS X - Linux - Windows
 
 > #### iCapital:
 
-> Trabalhei como desenvolvedor Ruby on Rails e React.js para processamento de transações financeiras (fintech) no escritório em Portugal da empresa iCapital Network que é uma empresa sediada nos Estados Unidos da América (EUA) onde faço parte de uma equipe que gerencia o Fund Finance onde uma das minhas responsabilidades da equipe é criar novas funcionalidades e melhorar o código e desempenho do código existente. Tecnologias utilizadas: Ruby; Rails; JavaScript; HTML; CSS; React; PostgreSql; Redis; Sidekiq, Pusher, Elasticsearch.
+> Trabalhei como desenvolvedor Ruby on Rails e React.js para processamento de transações financeiras (fintech) no escritório em Portugal da empresa iCapital Network que é uma empresa sediada nos Estados Unidos da América (EUA) onde faço parte de uma equipe que gerencia o Fund Finance onde uma das minhas responsabilidades da equipe é criar novas funcionalidades e melhorar o código e desempenho do código existente. Tecnologias utilizadas: Ruby, Rails, JavaScript, HTML, CSS, React, PostgreSql, Redis, Sidekiq, Pusher e Elasticsearch.
 
 **Engenheiro de Software** - Nearshore/Voith - Abril 2021 - Abril 2022
 
@@ -54,7 +42,7 @@ Sistema Operacional: Mac OS X - Linux - Windows
 
 > #### Voith:
 
-> Trabalhei como desenvolvedor Ruby on Rails para o setor de gestão de plataformas de aprendizagem no escritório em Portugal da empresa Voith que é uma empresa com sede na Alemanha onde faço parte de uma equipe que gerencia cursos de Voith na Drive4YOU e outras instâncias onde toda equipe tem a responsabilidades de manter as instâncias na AWS e desenvolver o código existente para novos clientes. Tecnologias utilizadas: Ruby; Rails; JavaScript; HTML; CSS; Bootstrap; MySQL; Redis; Sidekiq.
+> Trabalhei como desenvolvedor Ruby on Rails para o setor de gestão de plataformas de aprendizagem no escritório em Portugal da empresa Voith que é uma empresa com sede na Alemanha onde faço parte de uma equipe que gerencia cursos de Voith na Drive4YOU e outras instâncias onde toda equipe tem a responsabilidades de manter as instâncias na AWS e desenvolver o código existente para novos clientes. Tecnologias utilizadas: Ruby, Rails, JavaScript, HTML, CSS, Bootstrap, MySQL, Redis e Sidekiq.
 
 **Engenheiro de Software** - Sysmatch/Glintt - Março 2020 - Abril 2021
 
@@ -62,11 +50,11 @@ Sistema Operacional: Mac OS X - Linux - Windows
 
 > #### Glintt:
 
-> Trabalhei como desenvolvedor Ruby on Rails para o setor de farmácias em Portugal para a empresa Glintt que é uma empresa com sede em Portugal de desenvolvimento de software onde faço parte de uma equipe que faz o gerenciamento de campanhas pelo Sifarma Saude onde uma das responsabilidades da minha equipe é criar campanhas e enviar notificações à seus clientes por SMS ou E-mail ou Push Notificator para a empresa ANF (Associação Nacional das Farmácias). Faço parte do time que dá a manutenção e desenvolve novas features e integrações com outros sistemas do grupo. Tecnologias utilizadas: Ruby; Rails; JavaScript; HTML; CSS; Angular; MySQL; Redis; Sidekiq; API REST.
+> Trabalhei como desenvolvedor Ruby on Rails para o setor de farmácias em Portugal para a empresa Glintt que é uma empresa com sede em Portugal de desenvolvimento de software onde faço parte de uma equipe que faz o gerenciamento de campanhas pelo Sifarma Saude onde uma das responsabilidades da minha equipe é criar campanhas e enviar notificações à seus clientes por SMS ou E-mail ou Push Notificator para a empresa ANF (Associação Nacional das Farmácias). Faço parte do time que dá a manutenção e desenvolve novas features e integrações com outros sistemas do grupo. Tecnologias utilizadas: Ruby, Rails, JavaScript, HTML, CSS, Angular, MySQL, Redis, Sidekiq e API REST.
 
 **Engenheiro de Software** - Neo Med - junho 2019 - Março 2020 (part-time de Março 2020 a Abril 2023)
 
-> Trabalhei como desenvolvedor Ruby on Rails para área de saúde com Marketplace e Software como Serviço (SaaS) de laudos médicos para encurtar a distância entre os sintomas e o paciente. Participo da construção de novas features e manutenção na aplicação e pude desenvolver um projeto de Gateway para comunicação API REST e SOAP Client com os clientes parceiros. Tecnologias utilizadas: Ruby; Rails; Rspec; PostgreSQL; HTML; CSS; Graphql; Elasticsearch; SOAP Client; API REST.
+> Trabalhei como desenvolvedor Ruby on Rails para área de saúde com Marketplace e Software como Serviço (SaaS) de laudos médicos para encurtar a distância entre os sintomas e o paciente. Participo da construção de novas features e manutenção na aplicação e pude desenvolver um projeto de Gateway para comunicação API REST e SOAP Client com os clientes parceiros. Tecnologias utilizadas: Ruby, Rails, Rspec, PostgreSQL, HTML, CSS, Graphql, Elasticsearch, SOAP Client e API REST.
 
 **Desenvolvedor back-end** - Codeminer42 - Abril 2016 - junho 2019
 
@@ -75,44 +63,48 @@ Sistema Operacional: Mac OS X - Linux - Windows
 Empresas na qual fui alocado através da Codeminer42: StarsPremium, Guide Investimentos, Omnitrade, Nexaas, Smart Fit/Bio Ritmo, Achieve Leap, Hospedin, Riot Games.
 
 > #### StartsPremium:
-Gerenciamento de campanhas de vendas que criam recompensam através de metas com programas que geram pontos, prêmios e benefícios para os participantes. Fiz parte do time que deu manutenção e integração de novas campanhas. Tecnologias utilizadas: Ruby; Rails; Rspec; Capybara; ActiveAdmin; JavaScript; HTML; CSS; Bootstrap; PostgreSQL; Redis; Sidekiq; Elasticsearch; API REST.
+Gerenciamento de campanhas de vendas que criam recompensam através de metas com programas que geram pontos, prêmios e benefícios para os participantes. Fiz parte do time que deu manutenção e integração de novas campanhas. Tecnologias utilizadas: Ruby, Rails, Rspec, Capybara, ActiveAdmin, JavaScript, HTML, CSS, Bootstrap, PostgreSQL, Redis, Sidekiq, Elasticsearch e API REST.
 
 > #### Guide Investimentos:
-Investimentos financeiros como fundos de investimento, renda fixa, ações e mercado futuro. Fiz parte do time de fundos de investimentos dividindo os códigos legados em micro serviços e integração com sistemas legados. Tecnologias utilizadas: Ruby; Rails; Rspec; Capybara; PostgreSQL; Redis; Sidekiq; API REST.
+Investimentos financeiros como fundos de investimento, renda fixa, ações e mercado futuro. Fiz parte do time de fundos de investimentos dividindo os códigos legados em micro serviços e integração com sistemas legados. Tecnologias utilizadas: Ruby, Rails, Rspec, Capybara, PostgreSQL, Redis, Sidekiq e API REST.
 
 > #### Omnitrade:
-A mais avançada e segura corretora de criptomoedas do Brasil. Fiz parte do time de back-end que ajudou na construção do controle administrativo da plataforma. Tecnologias utilizadas: Ruby; Rails; Rspec; Capybara; ActiveAdmin; JavaScript; HTML; CSS; PostgreSQL; Redis; Sidekiq; API REST.
+A mais avançada e segura corretora de criptomoedas do Brasil. Fiz parte do time de back-end que ajudou na construção do controle administrativo da plataforma. Tecnologias utilizadas: Ruby, Rails, Rspec, Capybara, ActiveAdmin, JavaScript, HTML, CSS, PostgreSQL, Redis, Sidekiq e API REST.
 
 > #### Nexaas:
-Soluções empresariais integradas. Fiz parte do time que desenvolveu um produto de integrações de marketplace com a empresa B2W através de API REST. Tecnologias utilizadas: Ruby; Rails; Rspec; Capybara; JavaScript; HTML; CSS; PostgreSQL; Redis; Sidekiq; API REST.
+Soluções empresariais integradas. Fiz parte do time que desenvolveu um produto de integrações de marketplace com a empresa B2W através de API REST. Tecnologias utilizadas: Ruby, Rails, Rspec, Capybara, JavaScript, HTML, CSS, PostgreSQL, Redis, Sidekiq e API REST.
 
 > #### Smart Fit/Bio Ritmo Academia:
-É uma rede de academias onde fiz parte do time de um projeto chamado Race Bootcamp onde desenvolvemos e integramos com os diversos sistemas da empresa através de API's REST. Tecnologias utilizadas: Ruby; Rails; Rspec; JavaScript; HTML; CSS; PostgreSQL; Redis; Sidekiq; API REST; Amazon API Gateway.
+É uma rede de academias onde fiz parte do time de um projeto chamado Race Bootcamp onde desenvolvemos e integramos com os diversos sistemas da empresa através de API's REST. Tecnologias utilizadas: Ruby, Rails, Rspec, JavaScript, HTML, CSS, PostgreSQL, Redis, Sidekiq, API REST e Amazon API Gateway.
 
 > #### Achieve Leap:
-É um marketplace onde é possível multiplicar suas vendas com as maiores e-commerce do Brasil. Fiz parte do time que fez melhorias e manutenção no sistema e comunicação entre eles por API REST. Tecnologias utilizadas: Ruby; Rails; Rspec; JavaScript; NodeJs; HTML; CSS; PostgreSQL; Redis; Sidekiq; API REST.
+É um marketplace onde é possível multiplicar suas vendas com as maiores e-commerce do Brasil. Fiz parte do time que fez melhorias e manutenção no sistema e comunicação entre eles por API REST. Tecnologias utilizadas: Ruby, Rails, Rspec, JavaScript, NodeJs, HTML, CSS, PostgreSQL, Redis, Sidekiq e API REST.
 
 > #### Hospedin:
-Sistema de controle de hotelaria que busca atrair hotéis e pousadas com um preço justo. Fiz parte do time que fez melhorias no sistema e novas funcionalidades como replicar a reservas na agenda dos hospedes. Tecnologias utilizadas: Ruby; Rails; Rspec; Redux; React; JavaScript; HTML; CSS; PostgreSQL; API REST.
+Sistema de controle de hotelaria que busca atrair hotéis e pousadas com um preço justo. Fiz parte do time que fez melhorias no sistema e novas funcionalidades como replicar a reservas na agenda dos hospedes. Tecnologias utilizadas: Ruby, Rails, Rspec, Redux, React, JavaScript, HTML, CSS, PostgreSQL e API REST.
 
 > #### Riot Games:
-Empresa internacional que mantém uma filial de games no Brasil. Fiz parte do time onde fizemos um sistema de chaveamento (no estilo tabela de jogos de futebol) de times do game no Brasil para um de seus produtos de jogos chamado LOL League of Legends. Tecnologias utilizadas: Ruby; Rails; Rspec; JavaScript; HTML; CSS; PostgreSQL; API REST.
+Empresa internacional que mantém uma filial de games no Brasil. Fiz parte do time onde fizemos um sistema de chaveamento (no estilo tabela de jogos de futebol) de times do game no Brasil para um de seus produtos de jogos chamado LOL League of Legends. Tecnologias utilizadas: Ruby, Rails, Rspec, JavaScript, HTML, CSS, PostgreSQL e API REST.
 
-**Desenvolvedor back-end** - PROTESTE Brasil - Novembro 2013 - Março 2016
+<details>
+  <summary>Mais experiências profissionais</summary>
 
-> Empresa similar ao Inmetro no Brasil, mas de origem belga. Trabalha com qualidade, metrologia e tecnologia para seus associados e clientes. Participei do time de desenvolvimento e integração da API. Tecnologias utilizadas: Ruby; Rails; Rspec; JavaScript; HTML; CSS; AngularJS; API REST.
+  **Desenvolvedor back-end** - PROTESTE Brasil - Novembro 2013 - Março 2016
 
-**Sócio / Desenvolvedor** - Cotar Agora - Agosto 2013 - Agosto 2014
+  > Empresa similar ao Inmetro no Brasil, mas de origem belga. Trabalha com qualidade, metrologia e tecnologia para seus associados e clientes. Participei do time de desenvolvimento e integração da API. Tecnologias utilizadas: Ruby, Rails, Rspec, JavaScript, HTML, CSS, AngularJS e API REST.
 
-> Meu sócio e eu desenvolvemos essa solução que é um software de cotação on-line de preços com a idéia de economizar dinheiro na compra de quaisquer produtos e ou materiais. Tecnologias utilizadas: Ruby; Rails; Rspec; PostgreSQL; HTML; CSS; Bootstrap.
+  **Sócio / Desenvolvedor** - Cotar Agora - Agosto 2013 - Agosto 2014
 
-**Desenvolvedor back-end** - Centro Universitário Claretiano - Novembro 2010 - Junho 2013
+  > Meu sócio e eu desenvolvemos essa solução que é um software de cotação on-line de preços com a idéia de economizar dinheiro na compra de quaisquer produtos e ou materiais. Tecnologias utilizadas: Ruby, Rails, Rspec, PostgreSQL, HTML, CSS e Bootstrap.
 
-> Universidade com diversas filiais em todo Brasil onde pude contribuir com o desenvolvimento do processo seletivo de candidatos e na administração de provas e controle dos alunos. Tecnologias utilizadas: Ruby; Rails; Rspec; MySQL; HTML; CSS; ERP Totvs.
+  **Desenvolvedor back-end** - Centro Universitário Claretiano - Novembro 2010 - Junho 2013
 
-**Desenvolvedor ERP** - Jumil - Fevereiro 2003 - Outubro 2010
+  > Universidade com diversas filiais em todo Brasil onde pude contribuir com o desenvolvimento do processo seletivo de candidatos e na administração de provas e controle dos alunos. Tecnologias utilizadas: Ruby, Rails, Rspec, MySQL, HTML, CSS e ERP Totvs.
 
-> Empresa de implementos agrícolas. Tecnologias utilizadas: ERP Senior Sistemas - LSP (Linguagem Senior de Programação); Oracle.
+  **Desenvolvedor ERP** - Jumil - Fevereiro 2003 - Outubro 2010
+
+  > Empresa de implementos agrícolas. Tecnologias utilizadas: ERP Senior Sistemas - LSP (Linguagem Senior de Programação) e Oracle.
+</details>
 
 ## Formação
 
