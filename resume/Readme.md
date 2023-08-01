@@ -1,8 +1,8 @@
 # Rodrigo Luis Virgilio da Silva
 
-**LinkedIn:** [https://www.linkedin.com/in/rodrigo-virgilio](https://www.linkedin.com/in/rodrigo-virgilio) | **Gitlab:** [https://gitlab.com/virgilio3](https://gitlab.com/virgilio3) | **Github:** [https://github.com/rodrigovirgilio](https://github.com/rodrigovirgilio)
+**LinkedIn:** [https://www.linkedin.com/in/rodrigo-virgilio](https://www.linkedin.com/in/rodrigo-virgilio) || **Gitlab:** [https://gitlab.com/virgilio3](https://gitlab.com/virgilio3) || **Github:** [https://github.com/rodrigovirgilio](https://github.com/rodrigovirgilio)
 
-**Phone Number:** +351 910 952 008 | **E-mail:** virgilio@virgilio.eti.br
+**Phone Number:** +351 910 952 008 || **E-mail:** virgilio@virgilio.eti.br
 
 ## About me
 
@@ -12,11 +12,11 @@ I'm always looking to learn new technologies and enjoy working on challenging an
 ## Skills
 Operating System: Mac OS X - Linux - Windows
 
-* Ruby/Rails/Sinatra | DSL ActiveAdmin
-* TDD - Rspec (unit tests) - Capybara (integration tests) and Continuous Integration (Gitlab CI - Circle CI - Codeship - Semaphore)
-* PostgreSQL - MySQL - Oracle - SQL Server - Redis - Elasticsearch - Graphql
-* HTML - Erb | Javascript (jQuery) | CSS (Sass) | CSS Frameworks (Bootstrap, Semantic UI)
-* Git | Agile Scrum and Kanban | Kafka/RabbitMQ
+* Ruby/Rails/Sinatra, DSL ActiveAdmin
+* TDD/Rspec (unit tests) - Capybara (integration tests) and Continuous Integration (Gitlab CI - Circle CI - Codeship - Semaphore)
+* PostgreSQL, MySQL, Oracle, SQL Server, Redis, Elasticsearch, Graphql and MongoDB
+* HTML/Erb, Javascript (jQuery), CSS (Sass) and CSS Frameworks (Bootstrap, Semantic UI)
+* Git, Agile Scrum and Kanban and Kafka/RabbitMQ
 
 ## Work Experience
 
@@ -56,46 +56,46 @@ Operating System: Mac OS X - Linux - Windows
 
 > I worked as a Ruby on Rails healthcare developer with Marketplace and Software as a Service (SaaS) for medical reports to shorten the distance between symptoms and the patient. I participate in the construction of new features and maintenance in the application and I was able to develop a Gateway project for REST API and SOAP Client communication with partner clients. Technologies used: Ruby, Rails, Rspec, PostgreSQL, HTML, CSS, Graphql, Elasticsearch, SOAP Client and REST API.
 
-**Software Engineer** - Codeminer42 - April 2016 - June 2019
-
-> I worked with consulting and software development where I participated in several projects allocated to companies operating since the creation and maintenance of legacy systems.
-
-Companies in which I was allocated through Codeminer42: StarsPremium, Guide Investimentos, Omnitrade, Nexaas, Smart Fit/Bio Ritmo, Achieve Leap, Hospedin, Riot Games.
-
-> #### StartsPremium:
-Management of sales campaigns that create rewards through goals with programs that generate points, prizes and benefits for participants. I was part of the team that maintained and integrated new campaigns.
-Technologies used: Ruby, Rails, Rspec, Capybara, ActiveAdmin, JavaScript, HTML, CSS, Bootstrap, PostgreSQL, Redis, Sidekiq, Elasticsearch and REST API.
-
-> #### Guide Investimentos:
-Financial investments such as investment funds, fixed income, stocks and futures market. I was part of the investment fund team for a short period participating in breaking financial routines in microservices and integration with legacy systems.
-Technologies used: Ruby, Rails, Rspec, Capybara, PostgreSQL, Redis, Sidekiq and REST API.
-
-> #### Omnitrade:
-The most advanced and secure cryptocurrency broker in Brazil. I was part of the back-end team that helped build the administrative control of the platform.
-Technologies used: Ruby, Rails, Rspec, Capybara, ActiveAdmin, JavaScript, HTML, CSS, PostgreSQL, Redis, Sidekiq and REST API.
-
-> #### Nexaas:
-Integrated business solutions. I was part of the team that developed a product of marketplace integrations with the B2W company through REST API.
-Technologies used: Ruby, Rails, Rspec, Capybara, JavaScript, HTML, CSS, PostgreSQL, Redis, Sidekiq and REST API.
-
-> #### Bio Ritmo Academia:
-It is a network of gyms where I was part of a project team called Race Bootcamp where we developed and integrated with the company's various systems through API's REST.
-Technologies used: Ruby, Rails, Rspec, JavaScript, HTML, CSS, PostgreSQL, Redis, Sidekiq, REST API and Amazon API Gateway.
-
-> #### Achieve Leap:
-It is a marketplace where you can multiply your sales with the largest e-commerce in Brazil. I was part of the team that made improvements and maintenance in the system and communication between them by REST API.
-Technologies used: Ruby, Rails, Rspec, JavaScript, NodeJs, HTML, CSS, PostgreSQL, Redis, Sidekiq and REST API.
-
-> #### Hospedin:
-Holetaria control system that seeks to attract hotels and inns at a fair price. I was part of the team that made improvements to the system and new features such as replicating reservations on the guests' agenda.
-Technologies used: Ruby, Rails, Rspec, Redux, React, JavaScript, HTML, CSS, PostgreSQL and REST API.
-
-> #### Riot Games:
-International company that maintains a gaming branch in Brazil. I was part of the team where we made a switching system (in the style of a soccer game table) of game teams in Brazil for one of their game products called LOL League of Legends.
-Technologies used: Ruby, Rails, Rspec, JavaScript, HTML, CSS, PostgreSQL and REST API.
-
 <details>
   <summary>More work experiences</summary>
+
+  **Software Engineer** - Codeminer42 - April 2016 - June 2019
+
+  > I worked with consulting and software development where I participated in several projects allocated to companies operating since the creation and maintenance of legacy systems.
+
+  Companies in which I was allocated through Codeminer42: StarsPremium, Guide Investimentos, Omnitrade, Nexaas, Smart Fit/Bio Ritmo, Achieve Leap, Hospedin, Riot Games.
+
+  > #### StartsPremium:
+  Management of sales campaigns that create rewards through goals with programs that generate points, prizes and benefits for participants. I was part of the team that maintained and integrated new campaigns.
+  Technologies used: Ruby, Rails, Rspec, Capybara, ActiveAdmin, JavaScript, HTML, CSS, Bootstrap, PostgreSQL, Redis, Sidekiq, Elasticsearch and REST API.
+
+  > #### Guide Investimentos:
+  Financial investments such as investment funds, fixed income, stocks and futures market. I was part of the investment fund team for a short period participating in breaking financial routines in microservices and integration with legacy systems.
+  Technologies used: Ruby, Rails, Rspec, Capybara, PostgreSQL, Redis, Sidekiq and REST API.
+
+  > #### Omnitrade:
+  The most advanced and secure cryptocurrency broker in Brazil. I was part of the back-end team that helped build the administrative control of the platform.
+  Technologies used: Ruby, Rails, Rspec, Capybara, ActiveAdmin, JavaScript, HTML, CSS, PostgreSQL, Redis, Sidekiq and REST API.
+
+  > #### Nexaas:
+  Integrated business solutions. I was part of the team that developed a product of marketplace integrations with the B2W company through REST API.
+  Technologies used: Ruby, Rails, Rspec, Capybara, JavaScript, HTML, CSS, PostgreSQL, Redis, Sidekiq and REST API.
+
+  > #### Bio Ritmo Academia:
+  It is a network of gyms where I was part of a project team called Race Bootcamp where we developed and integrated with the company's various systems through API's REST.
+  Technologies used: Ruby, Rails, Rspec, JavaScript, HTML, CSS, PostgreSQL, Redis, Sidekiq, REST API and Amazon API Gateway.
+
+  > #### Achieve Leap:
+  It is a marketplace where you can multiply your sales with the largest e-commerce in Brazil. I was part of the team that made improvements and maintenance in the system and communication between them by REST API.
+  Technologies used: Ruby, Rails, Rspec, JavaScript, NodeJs, HTML, CSS, PostgreSQL, Redis, Sidekiq and REST API.
+
+  > #### Hospedin:
+  Holetaria control system that seeks to attract hotels and inns at a fair price. I was part of the team that made improvements to the system and new features such as replicating reservations on the guests' agenda.
+  Technologies used: Ruby, Rails, Rspec, Redux, React, JavaScript, HTML, CSS, PostgreSQL and REST API.
+
+  > #### Riot Games:
+  International company that maintains a gaming branch in Brazil. I was part of the team where we made a switching system (in the style of a soccer game table) of game teams in Brazil for one of their game products called LOL League of Legends.
+  Technologies used: Ruby, Rails, Rspec, JavaScript, HTML, CSS, PostgreSQL and REST API.
 
   **Back-end Developer** - PROTESTE Brasil - November 2013 - March 2016
 
