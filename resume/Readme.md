@@ -21,13 +21,20 @@ Operating System: Mac OS X - Linux - Windows
 
 ## Work Experience
 
-**Software Engineer** - RealFevr - Nov 2022 - to date
+**Software Engineer** - Bryj - Jan 2024 - to date
 
-> I work as a computer systems analyst and developer for the company RealFevr.
+> I work as a Senior Backend Ruby on Rails Engineer for the company Bryj.
+
+> #### Bryj:
+
+> I work as a Ruby on Rails developer with Web3 building an ambitious gaming ecosystem around licensed sports digital collectible NFT. My team responsibilities is to create new features and improve code and performance of existing code. Technologies used: Ruby, Rails, JavaScript, HTML, CSS, PostgreSql, Redis, Sidekiq, MongoDB, Kubernetes and Kafka/RabbitMQ.
+**Software Engineer** - RealFevr - Nov 2022 - Dec 2023
+
+> I worked as a computer systems analyst and developer for the company RealFevr.
 
 > #### RealFevr:
 
-> I work as a Ruby on Rails developer with Web3 building an ambitious gaming ecosystem around licensed sports digital collectible NFT. My team responsibilities is to create new features and improve code and performance of existing code. Technologies used: Ruby, Rails, JavaScript, HTML, CSS, PostgreSql, Redis, Sidekiq, MongoDB, Kubernetes and Kafka/RabbitMQ.
+> I worked as a Ruby on Rails developer with Web3 building an ambitious gaming ecosystem around licensed sports digital collectible NFT. My team responsibilities is to create new features and improve code and performance of existing code. Technologies used: Ruby, Rails, JavaScript, HTML, CSS, PostgreSql, Redis, Sidekiq, MongoDB, Kubernetes and Kafka/RabbitMQ.
 
 **Software Engineer** - iCapital - May 2022 - Oct 2022
 
