@@ -28,6 +28,7 @@ Operating System: Mac OS X - Linux - Windows
 > #### Bryj:
 
 > I work as a Ruby on Rails developer with Web3 building an ambitious gaming ecosystem around licensed sports digital collectible NFT. My team responsibilities is to create new features and improve code and performance of existing code. Technologies used: Ruby, Rails, JavaScript, HTML, CSS, PostgreSql, Redis, Sidekiq, MongoDB, Kubernetes and Kafka/RabbitMQ.
+
 **Software Engineer** - RealFevr - Nov 2022 - Dec 2023
 
 > I worked as a computer systems analyst and developer for the company RealFevr.
