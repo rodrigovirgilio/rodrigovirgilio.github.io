@@ -28,7 +28,7 @@ Sistema Operacional: Mac OS X - Linux - Windows
 
 > #### Bryj:
 
-> Trabalho como desenvolvedor Ruby on Rails para soluções de aplicativos móveis de ponta a ponta orientadas por IA para o máximo ROI. Minhas responsabilidades e da equipe é criar novas funcionalidades e melhorar o código e desempenho do código existente. Tecnologias utilizadas: Ruby, Rails, PostgreSql, Redis, Sidekiq, Kubernates, Kafka e AWS SQS.
+> Trabalho como desenvolvedor Ruby on Rails para soluções de aplicativos móveis de ponta a ponta orientadas por IA para o máximo ROI. Minhas responsabilidades e da equipe é criar novas funcionalidades e melhorar o código e desempenho do código existente. Tecnologias utilizadas: Ruby, Rails, Rspec, JavaScript, HTML, CSS, PostgreSql, Redis, Sidekiq, REST API, Kubernetes and Kafka/AWS SQS.
 
 **Engenheiro de Software** - RealFevr - Novembro 2022 - Dezembro 2023
 
