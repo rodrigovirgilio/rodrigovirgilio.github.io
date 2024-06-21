@@ -13,11 +13,11 @@ I'm always looking to learn new technologies and enjoy working on challenging an
 ## Skills
 Operating System: Mac OS X - Linux - Windows
 
-* Ruby/Rails/Sinatra, DSL ActiveAdmin
-* TDD/Rspec (unit tests) - Capybara (integration tests) and Continuous Integration (Gitlab CI - Circle CI - Codeship - Semaphore)
-* PostgreSQL, MySQL, Oracle, SQL Server, Redis, Elasticsearch, Graphql and MongoDB
-* HTML/Erb, Javascript (jQuery), CSS (Sass) and CSS Frameworks (Bootstrap, Semantic UI)
-* Git, Agile Scrum and Kanban and Kafka/RabbitMQ
+* Ruby/Rails/Sinatra, Rspec, DSL ActiveAdmin, Kubernetes
+* TDD/Rspec (unit tests) - Capybara (integration tests) e Continuous Integration (Gitlab CI - Circle CI - Codeship - Semaphore - Jenkins)
+* PostgreSQL, MySQL, Oracle, SQL Server, Redis, Sidekiq, Elasticsearch, Graphql e MongoDB
+* HTML/Erb, Javascript (jQuery), CSS (Sass) e CSS Frameworks (Bootstrap, Semantic UI)
+* Git, Agile Scrum and Kanban e Kafka/AWS SQS/RabbitMQ
 
 ## Work Experience
 

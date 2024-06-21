@@ -14,11 +14,11 @@ Estou sempre procurando aprender novas tecnologias e que gosta de trabalhar com 
 ## Habilidades
 Sistema Operacional: Mac OS X - Linux - Windows
 
-* Ruby/Rails/Sinatra, DSL ActiveAdmin
-* TDD/Rspec (unit tests) - Capybara (integration tests) e Continuous Integration (Gitlab CI - Circle CI - Codeship - Semaphore)
-* PostgreSQL, MySQL, Oracle, SQL Server, Redis, Elasticsearch, Graphql e MongoDB
+* Ruby/Rails/Sinatra, Rspec, DSL ActiveAdmin, Kubernetes
+* TDD/Rspec (unit tests) - Capybara (integration tests) e Continuous Integration (Gitlab CI - Circle CI - Codeship - Semaphore - Jenkins)
+* PostgreSQL, MySQL, Oracle, SQL Server, Redis, Sidekiq, Elasticsearch, Graphql e MongoDB
 * HTML/Erb, Javascript (jQuery), CSS (Sass) e CSS Frameworks (Bootstrap, Semantic UI)
-* Git, Agile Scrum and Kanban e Kafka/RabbitMQ
+* Git, Agile Scrum and Kanban e Kafka/AWS SQS/RabbitMQ
 
 ## Experiência Profissional
 
@@ -28,7 +28,7 @@ Sistema Operacional: Mac OS X - Linux - Windows
 
 > #### Bryj:
 
-> Trabalho como desenvolvedor Ruby on Rails para soluções de aplicativos móveis de ponta a ponta orientadas por IA para o máximo ROI. Minhas responsabilidades e da equipe é criar novas funcionalidades e melhorar o código e desempenho do código existente. Tecnologias utilizadas: Ruby, Rails, Rspec, JavaScript, HTML, CSS, PostgreSql, Redis, Sidekiq, REST API, Kubernetes and Kafka/AWS SQS.
+> Trabalho como desenvolvedor Ruby on Rails para soluções de aplicativos móveis de ponta a ponta orientadas por IA para o máximo ROI. Minhas responsabilidades e da equipe é criar novas funcionalidades e melhorar o código e desempenho do código existente. Tecnologias utilizadas: Ruby, Rails, Rspec, JavaScript, React, HTML, CSS, PostgreSql, Redis, Sidekiq, REST API, Kubernetes and Kafka/AWS SQS.
 
 **Engenheiro de Software** - RealFevr - Novembro 2022 - Dezembro 2023
 
@@ -36,7 +36,7 @@ Sistema Operacional: Mac OS X - Linux - Windows
 
 > #### RealFevr:
 
-> Trabalhei como desenvolvedor Ruby on Rails com Web3 a construir um ecossistema de jogos ambicioso em torno de NFT colecionáveis ​​digitais desportivos licenciados. Minhas responsabilidades e da equipe é criar novas funcionalidades e melhorar o código e desempenho do código existente. Tecnologias utilizadas: Ruby, Rails, JavaScript, HTML, CSS, PostgreSql, Redis, Sidekiq, MongoDB, Kubernates e Kafka/RabbitMQ.
+> Trabalhei como desenvolvedor Ruby on Rails com Web3 a construir um ecossistema de jogos ambicioso em torno de NFT colecionáveis ​​digitais desportivos licenciados. Minhas responsabilidades e da equipe é criar novas funcionalidades e melhorar o código e desempenho do código existente. Tecnologias utilizadas: Ruby, Rails, JavaScript, HTML, CSS, PostgreSql, Redis, Sidekiq, MongoDB, Kubernetes e Kafka/RabbitMQ.
 
 **Engenheiro de Software** - iCapital - Maio 2022 - Outubro 2022
 
