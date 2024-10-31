@@ -27,7 +27,7 @@ Operating System: Mac OS X - Linux - Windows
 
 > #### Bryj:
 
-> I work as a Ruby on Rails developer for AI-driven end-to-end mobile app solutions for maximum ROI. My and the team's responsibilities are to create new features and improve the code and performance of the existing code. Technologies used: Ruby, Rails, Rspec, JavaScript, HTML, CSS, PostgreSql, Redis, Sidekiq, REST API, Kubernetes and Kafka/AWS SQS.
+> I work as a Ruby on Rails developer for AI-driven end-to-end mobile app solutions for maximum ROI. My and the team's responsibilities are to create new features and improve the code and performance of the existing code. Technologies used: Ruby, Rails, Rspec, JavaScript, HTML, CSS, PostgreSql, Redis, Sidekiq, REST API, Kubernetes, Kafka/AWS SQS and Interactor.
 
 **Software Engineer** - RealFevr - Nov 2022 - Dec 2023
 
