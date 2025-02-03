@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Tenho mais de 10 anos de experiência e sou desenvolvedor **Sênior BackEnd Ruby on Rails**. Construindo e apoiando pequenas, médias e grandes empresas. Seja em projetos monolíticos ou de microsserviços, todos utilizando metodologias ágeis.
+Tenho mais de 12 anos de experiência e sou desenvolvedor **Sênior BackEnd Ruby on Rails**. Construindo e apoiando pequenas, médias e grandes empresas. Seja em projetos monolíticos ou de microsserviços, todos utilizando metodologias ágeis.
 Estou sempre procurando aprender novas tecnologias e que gosta de trabalhar com projetos desafiadores e criativos.
 
 ## Habilidades

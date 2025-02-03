@@ -7,7 +7,7 @@
 
 ## About me
 
-I have more than 10 years of experience and I'm **Senior BackEnd Ruby on Rails Developer**. Building and supporting small, medium and large companies. Whether in monolithic or microservice projects, all using agile methodologies.
+I have more than 12 years of experience and I'm **Senior BackEnd Ruby on Rails Developer**. Building and supporting small, medium and large companies. Whether in monolithic or microservice projects, all using agile methodologies.
 I'm always looking to learn new technologies and enjoy working on challenging and creative projects.
 
 ## Skills
