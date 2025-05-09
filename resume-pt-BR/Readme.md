@@ -1,5 +1,5 @@
 # Rodrigo Luis Virgilio da Silva
-## Contact
+## Contato
 
 | LinkedIn  | Gitlab | Github | Telefone  | E-mail |
 | --------- | ------ | ------ | --------- | ------ |
