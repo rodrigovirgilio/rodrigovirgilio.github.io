@@ -1,9 +1,9 @@
 # Rodrigo Luis Virgilio da Silva
 ## Contato
 
-| LinkedIn  | Gitlab | Github | Telefone  | E-mail |
-| --------- | ------ | ------ | --------- | ------ |
-| [rodrigo-virgilio](https://www.linkedin.com/in/rodrigo-virgilio) | [virgilio3](https://gitlab.com/virgilio3) | [rodrigovirgilio](https://github.com/rodrigovirgilio) | +351 910 952 008 | virgilio@virgilio.eti.br |
+| LinkedIn  | Gitlab | Github | E-mail |
+| --------- | ------ | ------ | ------ |
+| [rodrigo-virgilio](https://www.linkedin.com/in/rodrigo-virgilio) | [virgilio3](https://gitlab.com/virgilio3) | [rodrigovirgilio](https://github.com/rodrigovirgilio) | virgilio@virgilio.eti.br |
 
 
 ## Sobre mim
