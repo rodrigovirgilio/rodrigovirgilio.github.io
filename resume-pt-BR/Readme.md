@@ -1,138 +1,107 @@
 # Rodrigo Luis Virgilio da Silva
-## Contato
 
-| LinkedIn  | Gitlab | Github | E-mail |
-| --------- | ------ | ------ | ------ |
-| [rodrigo-virgilio](https://www.linkedin.com/in/rodrigo-virgilio) | [virgilio3](https://gitlab.com/virgilio3) | [rodrigovirgilio](https://github.com/rodrigovirgilio) | virgilio@virgilio.eti.br |
+Engenheiro de Software Sênior · Backend Ruby on Rails
 
+- **E-mail:** <virgilio@virgilio.eti.br>
+- **LinkedIn:** [linkedin.com/in/rodrigo-virgilio](https://www.linkedin.com/in/rodrigo-virgilio)
+- **GitHub:** [github.com/rodrigovirgilio](https://github.com/rodrigovirgilio)
+- **GitLab:** [gitlab.com/virgilio3](https://gitlab.com/virgilio3)
 
 ## Sobre mim
 
-Tenho mais de 12 anos de experiência e sou desenvolvedor **Sênior BackEnd Ruby on Rails**. Construindo e apoiando pequenas, médias e grandes empresas. Seja em projetos monolíticos ou de microsserviços, todos utilizando metodologias ágeis.
-Estou sempre procurando aprender novas tecnologias e que gosta de trabalhar com projetos desafiadores e criativos.
+Desenvolvedor **Sênior Backend Ruby on Rails** com mais de 12 anos de experiência atendendo pequenas, médias e grandes empresas no Brasil, Portugal, Alemanha e EUA. Atuação em monolitos e microsserviços com metodologias ágeis, sempre buscando entregar valor de negócio com código testado e manutenível.
 
-## Habilidades
-Sistema Operacional: Mac OS X - Linux - Windows
+## Habilidades técnicas
 
-* Ruby/Rails/Sinatra, Rspec, DSL ActiveAdmin, Kubernetes
-* TDD/Rspec (unit tests) - Capybara (integration tests) e Continuous Integration (Gitlab CI - Circle CI - Codeship - Semaphore - Jenkins)
-* PostgreSQL, MySQL, Oracle, SQL Server, Redis, Sidekiq, Elasticsearch, Graphql e MongoDB
-* HTML/Erb, Javascript (jQuery), CSS (Sass) e CSS Frameworks (Bootstrap, Semantic UI)
-* Git, Agile Scrum and Kanban e Kafka/AWS SQS/RabbitMQ
+- **Linguagens & Frameworks:** Ruby, Rails, Sinatra, JavaScript, React, Angular, Node.js, ERP Senior (LSP)
+- **Bancos de dados:** PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, Elasticsearch
+- **Mensageria & Cache:** Redis, Sidekiq, Kafka, AWS SQS, RabbitMQ
+- **Testes & CI:** RSpec, Capybara, TDD, GitLab CI, CircleCI, Codeship, Semaphore, Jenkins, GitHub Actions
+- **APIs & Integrações:** REST, GraphQL, SOAP, Pusher
+- **Infraestrutura:** Kubernetes, AWS, Docker
+- **Frontend:** HTML/ERB, CSS/Sass, Bootstrap, Semantic UI, jQuery
+- **Metodologias:** Agile, Scrum, Kanban
+- **Sistemas operacionais:** macOS, Linux, Windows
 
 ## Experiência Profissional
 
-**Engenheiro de Software** - Bryj - Janeiro 2024 - até a data atual
+### Engenheiro de Software — Bryj · Janeiro 2024 - atual
 
-> Trabalho como Senior Backend Ruby on Rails Engineer para a empresa Bryj.
+- Iniciei o projeto **Beam Studio**, que transforma websites em apps mobile iOS/Android em minutos.
+- Atuo na estrutura, manutenção e desenvolvimento de novas features no backend para facilitar a operação do produto.
+- Resolvi as builds iOS (.ipa) e Android (.apk) substituindo o Bitrise por scripts em GitHub Actions, **reduzindo o custo da empresa**.
 
-> #### Bryj:
+### Engenheiro de Software — RealFevr · Novembro 2022 - Dezembro 2023
 
-> Trabalho como desenvolvedor Ruby on Rails para soluções de aplicativos móveis de ponta a ponta orientadas por IA para o máximo ROI. Minhas responsabilidades e da equipe é criar novas funcionalidades e melhorar o código e desempenho do código existente. Tecnologias utilizadas: Ruby, Rails, Rspec, JavaScript, React, HTML, CSS, PostgreSql, Redis, Sidekiq, REST API, Kubernetes, Kafka/AWS SQS e Interactor.
+- Atuei no ecossistema **Web3** construindo uma plataforma de NFTs colecionáveis digitais desportivos licenciados.
+- Desenvolvi novas funcionalidades em Ruby on Rails integradas a blockchain e a fluxos de jogos.
+- Refatorei trechos críticos do código legado, **melhorando desempenho e manutenibilidade** da aplicação.
 
-**Engenheiro de Software** - RealFevr - Novembro 2022 - Dezembro 2023
+### Engenheiro de Software — iCapital · Maio 2022 - Outubro 2022
 
-> Trabalho como Senior Backend Ruby on Rails Engineer para a empresa RealFevr.
+- Desenvolvi funcionalidades em Ruby on Rails e React.js para a equipe de **Fund Finance**, voltada ao processamento de transações financeiras (fintech).
+- Atuei no escritório de Portugal de uma empresa sediada nos EUA, integrado a um time distribuído internacionalmente.
+- Otimizei trechos do código existente, contribuindo para a melhoria de desempenho da aplicação.
 
-> #### RealFevr:
+### Engenheiro de Software — Nearshore / Voith · Abril 2021 - Abril 2022
 
-> Trabalhei como desenvolvedor Ruby on Rails com Web3 a construir um ecossistema de jogos ambicioso em torno de NFT colecionáveis ​​digitais desportivos licenciados. Minhas responsabilidades e da equipe é criar novas funcionalidades e melhorar o código e desempenho do código existente. Tecnologias utilizadas: Ruby, Rails, JavaScript, HTML, CSS, PostgreSql, Redis, Sidekiq, MongoDB, Kubernetes e Kafka/RabbitMQ.
+- Atuei no setor de gestão de plataformas de aprendizagem (**Drive4YOU**) da Voith, alocado via Nearshore Portugal.
+- Desenvolvi novas features e adaptações de código para atender múltiplos clientes do grupo Voith.
+- Mantive as instâncias da plataforma na **AWS**, garantindo disponibilidade contínua para os clientes.
 
-**Engenheiro de Software** - iCapital - Maio 2022 - Outubro 2022
+### Engenheiro de Software — Sysmatch / Glintt · Março 2020 - Abril 2021
 
-> Trabalhei como analista de sistemas de informática e desenvolvedor para a empresa iCapital Network.
+- Desenvolvi o sistema de gerenciamento de campanhas do **Sifarma Saúde** para a ANF (Associação Nacional das Farmácias), em Portugal.
+- Implementei envio de notificações multi-canal (**SMS, e-mail e push**) aos clientes parceiros.
+- Mantive integrações entre o sistema e outras plataformas do grupo Glintt.
 
-> #### iCapital:
+### Engenheiro de Software — Neo Med · Junho 2019 - Março 2020 (part-time até Abril 2023)
 
-> Trabalhei como desenvolvedor Ruby on Rails e React.js para processamento de transações financeiras (fintech) no escritório em Portugal da empresa iCapital Network que é uma empresa sediada nos Estados Unidos da América (EUA) onde faço parte de uma equipe que gerencia o Fund Finance onde uma das minhas responsabilidades da equipe é criar novas funcionalidades e melhorar o código e desempenho do código existente. Tecnologias utilizadas: Ruby, Rails, JavaScript, HTML, CSS, React, PostgreSql, Redis, Sidekiq, Pusher e Elasticsearch.
+- Desenvolvi novas features no **Marketplace** e **SaaS** de laudos médicos, encurtando a distância entre sintomas e paciente.
+- Construí um **Gateway de integração** com API REST e SOAP Client para comunicação com clientes parceiros.
+- Dei continuidade ao produto em regime part-time entre Março/2020 e Abril/2023.
 
-**Engenheiro de Software** - Nearshore/Voith - Abril 2021 - Abril 2022
+### Desenvolvedor Backend — Codeminer42 · Abril 2016 - Junho 2019
 
-> Trabalhei como analista e desenvolvedor de sistemas de informática e fui alocado na Voith através da Nearshore Portugal para a equipe da Drive.
+- Atuei como consultor backend em diversos projetos alocado em empresas-cliente, da criação à manutenção de sistemas legados.
+- Trabalhei com domínios variados — **fintech, e-commerce, criptomoedas, saúde, hotelaria, games e investimentos** — adaptando-me rapidamente a cada contexto.
+- Contribuí com produto open source da própria Codeminer42 (**Central CM42**, sistema de gerenciamento de backlog).
 
-> #### Voith:
+**Clientes atendidos:** StartsPremium, Guide Investimentos, Omnitrade, Nexaas, Smart Fit / Bio Ritmo, Achieve Leap, Hospedin, Riot Games.
 
-> Trabalhei como desenvolvedor Ruby on Rails para o setor de gestão de plataformas de aprendizagem no escritório em Portugal da empresa Voith que é uma empresa com sede na Alemanha onde faço parte de uma equipe que gerencia cursos de Voith na Drive4YOU e outras instâncias onde toda equipe tem a responsabilidades de manter as instâncias na AWS e desenvolver o código existente para novos clientes. Tecnologias utilizadas: Ruby, Rails, JavaScript, HTML, CSS, Bootstrap, MySQL, Redis e Sidekiq.
+### Desenvolvedor Backend — PROTESTE Brasil · Novembro 2013 - Março 2016
 
-**Engenheiro de Software** - Sysmatch/Glintt - Março 2020 - Abril 2021
+- Integrei o time de desenvolvimento e integração da API da PROTESTE, empresa de origem belga focada em qualidade, metrologia e tecnologia.
 
-> Trabalhei como analista e desenvolvedor de sistema de informática e fui alocado na Glintt através da Sysmatch para o projeto da ANF (Associação Nacional das Farmácias) em Portugal.
+### Sócio / Desenvolvedor — Cotar Agora · Agosto 2013 - Agosto 2014
 
-> #### Glintt:
+- Co-fundei e desenvolvi um software de cotação online de preços, com o objetivo de **economizar custos** na compra de produtos e materiais.
 
-> Trabalhei como desenvolvedor Ruby on Rails para o setor de farmácias em Portugal para a empresa Glintt que é uma empresa com sede em Portugal de desenvolvimento de software onde faço parte de uma equipe que faz o gerenciamento de campanhas pelo Sifarma Saude onde uma das responsabilidades da minha equipe é criar campanhas e enviar notificações à seus clientes por SMS ou E-mail ou Push Notificator para a empresa ANF (Associação Nacional das Farmácias). Faço parte do time que dá a manutenção e desenvolve novas features e integrações com outros sistemas do grupo. Tecnologias utilizadas: Ruby, Rails, JavaScript, HTML, CSS, Angular, MySQL, Redis, Sidekiq e API REST.
+### Desenvolvedor Backend — Centro Universitário Claretiano · Novembro 2010 - Junho 2013
 
-**Engenheiro de Software** - Neo Med - junho 2019 - Março 2020 (part-time de Março 2020 a Abril 2023)
+- Desenvolvi módulos do processo seletivo de candidatos, administração de provas e controle de alunos para universidade com diversas filiais no Brasil.
 
-> Trabalhei como desenvolvedor Ruby on Rails para área de saúde com Marketplace e Software como Serviço (SaaS) de laudos médicos para encurtar a distância entre os sintomas e o paciente. Participo da construção de novas features e manutenção na aplicação e pude desenvolver um projeto de Gateway para comunicação API REST e SOAP Client com os clientes parceiros. Tecnologias utilizadas: Ruby, Rails, Rspec, PostgreSQL, HTML, CSS, Graphql, Elasticsearch, SOAP Client e API REST.
+### Desenvolvedor ERP — Jumil · Fevereiro 2003 - Outubro 2010
 
-**Desenvolvedor back-end** - Codeminer42 - Abril 2016 - junho 2019
+- Atuei como desenvolvedor ERP (Senior Sistemas / LSP) em empresa de implementos agrícolas — **primeira experiência profissional** em desenvolvimento de software.
 
-> Trabalhei com consultoria e desenvolvimento de software onde participei de diversos projetos alocado em empresas atuando desde a criação a manutenção de sistemas legados.
-
-Empresas na qual fui alocado através da Codeminer42: StarsPremium, Guide Investimentos, Omnitrade, Nexaas, Smart Fit/Bio Ritmo, Achieve Leap, Hospedin, Riot Games.
-
-> #### StartsPremium:
-Gerenciamento de campanhas de vendas que criam recompensam através de metas com programas que geram pontos, prêmios e benefícios para os participantes. Fiz parte do time que deu manutenção e integração de novas campanhas. Tecnologias utilizadas: Ruby, Rails, Rspec, Capybara, ActiveAdmin, JavaScript, HTML, CSS, Bootstrap, PostgreSQL, Redis, Sidekiq, Elasticsearch e API REST.
-
-> #### Guide Investimentos:
-Investimentos financeiros como fundos de investimento, renda fixa, ações e mercado futuro. Fiz parte do time de fundos de investimentos dividindo os códigos legados em micro serviços e integração com sistemas legados. Tecnologias utilizadas: Ruby, Rails, Rspec, Capybara, PostgreSQL, Redis, Sidekiq e API REST.
-
-> #### Omnitrade:
-A mais avançada e segura corretora de criptomoedas do Brasil. Fiz parte do time de back-end que ajudou na construção do controle administrativo da plataforma. Tecnologias utilizadas: Ruby, Rails, Rspec, Capybara, ActiveAdmin, JavaScript, HTML, CSS, PostgreSQL, Redis, Sidekiq e API REST.
-
-> #### Nexaas:
-Soluções empresariais integradas. Fiz parte do time que desenvolveu um produto de integrações de marketplace com a empresa B2W através de API REST. Tecnologias utilizadas: Ruby, Rails, Rspec, Capybara, JavaScript, HTML, CSS, PostgreSQL, Redis, Sidekiq e API REST.
-
-> #### Smart Fit/Bio Ritmo Academia:
-É uma rede de academias onde fiz parte do time de um projeto chamado Race Bootcamp onde desenvolvemos e integramos com os diversos sistemas da empresa através de API's REST. Tecnologias utilizadas: Ruby, Rails, Rspec, JavaScript, HTML, CSS, PostgreSQL, Redis, Sidekiq, API REST e Amazon API Gateway.
-
-> #### Achieve Leap:
-É um marketplace onde é possível multiplicar suas vendas com as maiores e-commerce do Brasil. Fiz parte do time que fez melhorias e manutenção no sistema e comunicação entre eles por API REST. Tecnologias utilizadas: Ruby, Rails, Rspec, JavaScript, NodeJs, HTML, CSS, PostgreSQL, Redis, Sidekiq e API REST.
-
-> #### Hospedin:
-Sistema de controle de hotelaria que busca atrair hotéis e pousadas com um preço justo. Fiz parte do time que fez melhorias no sistema e novas funcionalidades como replicar a reservas na agenda dos hospedes. Tecnologias utilizadas: Ruby, Rails, Rspec, Redux, React, JavaScript, HTML, CSS, PostgreSQL e API REST.
-
-> #### Riot Games:
-Empresa internacional que mantém uma filial de games no Brasil. Fiz parte do time onde fizemos um sistema de chaveamento (no estilo tabela de jogos de futebol) de times do game no Brasil para um de seus produtos de jogos chamado LOL League of Legends. Tecnologias utilizadas: Ruby, Rails, Rspec, JavaScript, HTML, CSS, PostgreSQL e API REST.
-
-**Desenvolvedor back-end** - PROTESTE Brasil - Novembro 2013 - Março 2016
-
-> Empresa similar ao Inmetro no Brasil, mas de origem belga. Trabalha com qualidade, metrologia e tecnologia para seus associados e clientes. Participei do time de desenvolvimento e integração da API. Tecnologias utilizadas: Ruby, Rails, Rspec, JavaScript, HTML, CSS, AngularJS e API REST.
-
-**Sócio / Desenvolvedor** - Cotar Agora - Agosto 2013 - Agosto 2014
-
-> Meu sócio e eu desenvolvemos essa solução que é um software de cotação on-line de preços com a idéia de economizar dinheiro na compra de quaisquer produtos e ou materiais. Tecnologias utilizadas: Ruby, Rails, Rspec, PostgreSQL, HTML, CSS e Bootstrap.
-
-**Desenvolvedor back-end** - Centro Universitário Claretiano - Novembro 2010 - Junho 2013
-
-> Universidade com diversas filiais em todo Brasil onde pude contribuir com o desenvolvimento do processo seletivo de candidatos e na administração de provas e controle dos alunos. Tecnologias utilizadas: Ruby, Rails, Rspec, MySQL, HTML, CSS e ERP Totvs.
-
-**Desenvolvedor ERP** - Jumil - Fevereiro 2003 - Outubro 2010
-
-> Empresa de implementos agrícolas. Tecnologias utilizadas: ERP Senior Sistemas - LSP (Linguagem Senior de Programação) e Oracle.
 ## Formação
 
-**Bacharel Sistemas de Informação - Centro Universitário Claretiano** - 2006/2009
+**Bacharel em Sistemas de Informação** — Centro Universitário Claretiano · 2006 - 2009
 
 ## Cursos
 
-[Iniciando com Ruby e Orientação a Objetos](https://www.udemy.com/poo-ruby) (Udemy)
-
-[Dissecting Ruby on Rails 5 - Become a Professional Developer](https://www.udemy.com/professional-rails-5-development-course/) (Udemy)
-
-[TDD com Ruby on Rails, RSpec e Capybara](https://www.udemy.com/rails-tdd) (Udemy)
-
-[Desenvolvendo REST / RESTful APIs com Ruby on Rails](https://www.udemy.com/rubyonrails-api) (Udemy)
+- [Iniciando com Ruby e Orientação a Objetos](https://www.udemy.com/poo-ruby) — Udemy
+- [Dissecting Ruby on Rails 5 - Become a Professional Developer](https://www.udemy.com/professional-rails-5-development-course/) — Udemy
+- [TDD com Ruby on Rails, RSpec e Capybara](https://www.udemy.com/rails-tdd) — Udemy
+- [Desenvolvendo REST / RESTful APIs com Ruby on Rails](https://www.udemy.com/rubyonrails-api) — Udemy
 
 ## Certificados
 
-[24 hours of conversation based English classes with native speaking tutors on Cambly](https://rodrigovirgilio.github.io/certificates/cambly_certificate.pdf) Cambly - English tutors online.
+- [24 horas de conversação em inglês com tutores nativos no Cambly](https://rodrigovirgilio.github.io/certificates/cambly_certificate.pdf) — Cambly
 
-## Código Aberto (open source) / Extras
+## Código Aberto / Extras
 
-[Central CM42](http://www.centralcm42.com/) Sistema gratuito de gerenciamento de backlog. Fiz parte do time de back-end e review. [Contribua](https://github.com/Codeminer42/cm42-central)
-
-[Ruby Marks](https://en.wikipedia.org/wiki/Optical_mark_recognition) Uma gem simples de leitura de marca ótica em ruby. [Contribua](https://github.com/ruby-marks/ruby-marks)
-
-[Diaper](https://diaper.app/) Um sistema que gerencia um banco de fraudas para os que necessitam. [Contribua](https://github.com/rubyforgood/diaper)
+- [Central CM42](http://www.centralcm42.com/) — Sistema gratuito de gerenciamento de backlog. Atuei no time de back-end e review. [Contribua](https://github.com/Codeminer42/cm42-central)
+- [Ruby Marks](https://en.wikipedia.org/wiki/Optical_mark_recognition) — Gem de leitura de marca ótica em Ruby. [Contribua](https://github.com/ruby-marks/ruby-marks)
+- [Diaper](https://diaper.app/) — Sistema que gerencia um banco de fraldas para quem necessita. [Contribua](https://github.com/rubyforgood/diaper)
