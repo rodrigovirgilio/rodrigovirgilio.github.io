@@ -104,4 +104,4 @@ Desenvolvedor **Sênior Backend Ruby on Rails** com mais de 12 anos de experiên
 
 - [Central CM42](http://www.centralcm42.com/) — Sistema gratuito de gerenciamento de backlog. Atuei no time de back-end e review. [Contribua](https://github.com/Codeminer42/cm42-central)
 - [Ruby Marks](https://en.wikipedia.org/wiki/Optical_mark_recognition) — Gem de leitura de marca ótica em Ruby. [Contribua](https://github.com/ruby-marks/ruby-marks)
-- [Diaper](https://diaper.app/) — Sistema que gerencia um banco de fraldas para quem necessita. [Contribua](https://github.com/rubyforgood/diaper)
+- [Human Essentials](https://humanessentials.app/) — Human Essentials é um sistema de gestão de estoque para bancos de fraldas, produtos para incontinência e absorventes higiênicos. [Contribute](https://github.com/rubyforgood/human-essentials)

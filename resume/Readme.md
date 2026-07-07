@@ -104,4 +104,4 @@ Senior Software Engineer · Backend Ruby on Rails
 
 - [Central CM42](http://www.centralcm42.com/) — Free backlog management system. Worked on the back-end team and code review. [Contribute](https://github.com/Codeminer42/cm42-central)
 - [Ruby Marks](https://en.wikipedia.org/wiki/Optical_mark_recognition) — Simple OMR (Optical Mark Recognition) gem for Ruby. [Contribute](https://github.com/ruby-marks/ruby-marks)
-- [Diaper](https://diaper.app/) — The easiest and most love-filled way to manage your diaper bank. [Contribute](https://github.com/rubyforgood/diaper)
+- [Human Essentials](https://humanessentials.app/) — Human Essentials is an inventory management system for diaper, incontinence, and period-supply banks. [Contribute](https://github.com/rubyforgood/human-essentials)
