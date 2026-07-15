@@ -19,6 +19,7 @@ Senior Software Engineer · Backend Ruby on Rails
 - **Testing & CI:** RSpec, Capybara, TDD, GitLab CI, CircleCI, Codeship, Semaphore, Jenkins, GitHub Actions
 - **APIs & Integrations:** REST, GraphQL, SOAP, Pusher
 - **Infrastructure:** Kubernetes, AWS, Google GCP, Docker
+- **AI-assisted development:** Claude Code (Anthropic), Codex (ChatGPT)
 - **Frontend:** HTML/ERB, CSS/Sass, Bootstrap, Semantic UI, jQuery
 - **Methodologies:** Agile, Scrum, Kanban
 - **Operating systems:** macOS, Linux, Windows

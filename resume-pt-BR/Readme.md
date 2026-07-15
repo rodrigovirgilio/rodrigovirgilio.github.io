@@ -19,6 +19,7 @@ Desenvolvedor **Sênior Backend Ruby on Rails** com mais de 12 anos de experiên
 - **Testes & CI:** RSpec, Capybara, TDD, GitLab CI, CircleCI, Codeship, Semaphore, Jenkins, GitHub Actions
 - **APIs & Integrações:** REST, GraphQL, SOAP, Pusher
 - **Infraestrutura:** Kubernetes, AWS, Google GCP, Docker
+- **Desenvolvimento com IA:** Claude Code (Anthropic), Codex (ChatGPT)
 - **Frontend:** HTML/ERB, CSS/Sass, Bootstrap, Semantic UI, jQuery
 - **Metodologias:** Agile, Scrum, Kanban
 - **Sistemas operacionais:** macOS, Linux, Windows
