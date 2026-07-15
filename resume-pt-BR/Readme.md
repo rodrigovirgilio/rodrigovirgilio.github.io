@@ -18,7 +18,7 @@ Desenvolvedor **Sênior Backend Ruby on Rails** com mais de 12 anos de experiên
 - **Mensageria & Cache:** Redis, Sidekiq, Kafka, AWS SQS, RabbitMQ
 - **Testes & CI:** RSpec, Capybara, TDD, GitLab CI, CircleCI, Codeship, Semaphore, Jenkins, GitHub Actions
 - **APIs & Integrações:** REST, GraphQL, SOAP, Pusher
-- **Infraestrutura:** Kubernetes, AWS, Docker
+- **Infraestrutura:** Kubernetes, AWS, Google GCP, Docker
 - **Frontend:** HTML/ERB, CSS/Sass, Bootstrap, Semantic UI, jQuery
 - **Metodologias:** Agile, Scrum, Kanban
 - **Sistemas operacionais:** macOS, Linux, Windows
@@ -33,8 +33,8 @@ Desenvolvedor **Sênior Backend Ruby on Rails** com mais de 12 anos de experiên
 
 ### Engenheiro de Software — RealFevr · Novembro 2022 - Dezembro 2023
 
-- Atuei no ecossistema **Web3** construindo uma plataforma de NFTs colecionáveis digitais desportivos licenciados.
-- Desenvolvi novas funcionalidades em Ruby on Rails integradas a blockchain e a fluxos de jogos.
+- Atuei no ecossistema **Web3** trabalhando uma plataforma de NFTs colecionáveis digitais desportivos licenciados.
+- Desenvolvi o Referral do marketplace da empresa comunicando por API de uma ferramenta externa para aumentar e engajar os clientes.
 - Refatorei trechos críticos do código legado, **melhorando desempenho e manutenibilidade** da aplicação.
 
 ### Engenheiro de Software — iCapital · Maio 2022 - Outubro 2022
@@ -51,8 +51,8 @@ Desenvolvedor **Sênior Backend Ruby on Rails** com mais de 12 anos de experiên
 
 ### Engenheiro de Software — Sysmatch / Glintt · Março 2020 - Abril 2021
 
-- Desenvolvi o sistema de gerenciamento de campanhas do **Sifarma Saúde** para a ANF (Associação Nacional das Farmácias), em Portugal.
-- Implementei envio de notificações multi-canal (**SMS, e-mail e push**) aos clientes parceiros.
+- Trabalhei no sistema de gerenciamento de campanhas do **Sifarma Saúde** para a ANF (Associação Nacional das Farmácias), em Portugal.
+- Trabalhei no envio de notificações multi-canal (**SMS, e-mail e push**) aos clientes parceiros.
 - Mantive integrações entre o sistema e outras plataformas do grupo Glintt.
 
 ### Engenheiro de Software — Neo Med · Junho 2019 - Março 2020 (part-time até Abril 2023)

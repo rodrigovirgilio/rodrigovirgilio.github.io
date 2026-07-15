@@ -18,7 +18,7 @@ Senior Software Engineer · Backend Ruby on Rails
 - **Messaging & Cache:** Redis, Sidekiq, Kafka, AWS SQS, RabbitMQ
 - **Testing & CI:** RSpec, Capybara, TDD, GitLab CI, CircleCI, Codeship, Semaphore, Jenkins, GitHub Actions
 - **APIs & Integrations:** REST, GraphQL, SOAP, Pusher
-- **Infrastructure:** Kubernetes, AWS, Docker
+- **Infrastructure:** Kubernetes, AWS, Google GCP, Docker
 - **Frontend:** HTML/ERB, CSS/Sass, Bootstrap, Semantic UI, jQuery
 - **Methodologies:** Agile, Scrum, Kanban
 - **Operating systems:** macOS, Linux, Windows
@@ -33,8 +33,8 @@ Senior Software Engineer · Backend Ruby on Rails
 
 ### Software Engineer — RealFevr · November 2022 - December 2023
 
-- Worked on the **Web3** ecosystem building a platform of licensed sports digital collectible NFTs.
-- Developed new features in Ruby on Rails integrated with blockchain and gameplay flows.
+- Worked on the **Web3** ecosystem on a platform of licensed sports digital collectible NFTs.
+- Developed the company's marketplace Referral program, communicating via API with an external tool to grow and engage customers.
 - Refactored critical legacy code, **improving performance and maintainability** of the application.
 
 ### Software Engineer — iCapital · May 2022 - October 2022
@@ -51,8 +51,8 @@ Senior Software Engineer · Backend Ruby on Rails
 
 ### Software Engineer — Sysmatch / Glintt · March 2020 - April 2021
 
-- Developed the campaign management system for **Sifarma Saúde**, serving ANF (the Portuguese National Pharmacy Association).
-- Implemented multi-channel notifications (**SMS, e-mail and push**) to partner clients.
+- Worked on the campaign management system for **Sifarma Saúde**, serving ANF (the Portuguese National Pharmacy Association).
+- Worked on multi-channel notifications (**SMS, e-mail and push**) to partner clients.
 - Maintained integrations between the system and other platforms in the Glintt group.
 
 ### Software Engineer — Neo Med · June 2019 - March 2020 (part-time until April 2023)
