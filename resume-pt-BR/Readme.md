@@ -59,7 +59,7 @@ Desenvolvedor **Sênior Backend Ruby on Rails** com mais de 12 anos de experiên
 ### Engenheiro de Software — Neo Med · Junho 2019 - Março 2020 (part-time até Abril 2023)
 
 - Desenvolvi novas features no **Marketplace** e **SaaS** de laudos médicos, encurtando a distância entre sintomas e paciente.
-- Construí um **Gateway de integração** com API REST e SOAP Client para comunicação com clientes parceiros.
+- Construí um **Gateway de integração** com API REST e SOAP Client para separar a regra de negócios e manter a comunicação com clientes parceiros.
 - Dei continuidade ao produto em regime part-time entre Março/2020 e Abril/2023.
 
 ### Desenvolvedor Backend — Codeminer42 · Abril 2016 - Junho 2019
