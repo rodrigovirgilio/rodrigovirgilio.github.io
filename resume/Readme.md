@@ -59,7 +59,7 @@ Senior Software Engineer · Backend Ruby on Rails
 ### Software Engineer — Neo Med · June 2019 - March 2020 (part-time until April 2023)
 
 - Developed new features in the **Marketplace** and **SaaS** for medical reports, shortening the distance between symptoms and patient.
-- Built a **Gateway** with REST API and SOAP Client for communication with partner clients.
+- Built a **Gateway** with REST API and SOAP client to separate business logic and maintain communication with partner clients.
 - Continued contributing to the product part-time between March/2020 and April/2023.
 
 ### Backend Developer — Codeminer42 · April 2016 - June 2019
