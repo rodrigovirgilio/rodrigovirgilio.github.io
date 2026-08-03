@@ -32,11 +32,15 @@ Senior Backend Software Engineer with 12+ years of experience building and maint
 - Designed, maintained, and developed backend features to streamline product operations and support business growth.
 - Replaced Bitrise with custom GitHub Actions workflows for iOS (.ipa) and Android (.apk) builds, reducing company build costs.
 
+**Stack:** Ruby on Rails · PostgreSQL · Redis · Kafka/AWS SQS · Sidekiq · Rspec · Jenkins · Docker · AWS
+
 ### Software Engineer — RealFevr · November 2022 – December 2023
 
 - Built backend features for a Web3 platform offering licensed sports digital collectible NFTs (non-fungible tokens).
 - Developed the company's marketplace Referral Program, integrating via API with an external tool to grow and engage customers.
 - Refactored critical legacy code, improving application performance and long-term maintainability.
+
+**Stack:** Ruby on Rails · PostgreSQL · MongoDB · Redis · Sidekiq · Rspec · Docker · DigitalOcean
 
 ### Software Engineer — iCapital · May 2022 – October 2022
 
@@ -44,10 +48,14 @@ Senior Backend Software Engineer with 12+ years of experience building and maint
 - Collaborated from the Portugal office with an internationally distributed engineering team supporting a US-based company.
 - Optimized existing codebase components, contributing to measurable performance improvements.
 
+**Stack:** Ruby on Rails · React · PostgreSQL · Redis · Sidekiq · Rspec · Docker · AWS
+
 ### Software Engineer — Nearshore Portugal (client: Voith) · April 2021 – April 2022
 
 - Developed new features and platform adaptations for Voith's learning management platform (Drive4YOU), serving multiple group clients.
 - Maintained platform infrastructure on AWS, ensuring continuous availability for client instances.
+
+**Stack:** Ruby on Rails · Bootstrap · MySQL · Redis · Sidekiq · Rspec · AWS
 
 ### Software Engineer — Sysmatch / Glintt · March 2020 – April 2021
 
@@ -55,11 +63,15 @@ Senior Backend Software Engineer with 12+ years of experience building and maint
 - Developed multi-channel notification features (SMS, email, push) for partner clients.
 - Maintained system integrations across platforms within the Glintt group.
 
+**Stack:** Ruby on Rails · MySQL · Redis · Pusher · Sidekiq · Rspec · Microsoft Azure Cloud
+
 ### Software Engineer — Neo Med · June 2019 – March 2020 (part-time through April 2023)
 
 - Developed new features for a medical reports marketplace and SaaS platform, streamlining the diagnostic-to-patient workflow.
 - Built a gateway service using REST API and a SOAP client for partner client communication.
 - Continued contributing to the product on a part-time basis from March 2020 through April 2023.
+
+**Stack:** Ruby on Rails · PostgreSQL · Redis · Sidekiq · Rspec · Gitlab CI/CD · Docker · Google Cloud (GCP)
 
 ### Backend Developer — Codeminer42 · April 2016 – June 2019
 
@@ -68,9 +80,13 @@ Senior Backend Software Engineer with 12+ years of experience building and maint
 - Contributed to Central CM42, Codeminer42's open-source backlog management system.
 - **Client engagements:** StartsPremium, Guide Investimentos, Omnitrade, Nexaas, Smart Fit / Bio Ritmo, Achieve Leap, Hospedin, Riot Games.
 
+**Stack:** Ruby on Rails · PostgreSQL/MySQL · Redis · Kafka/AWS SQS · Sidekiq · Rspec · Jenkins · Docker · AWS/Google Cloud (GCP)
+
 ### Backend Developer — PROTESTE Brasil · November 2013 – March 2016
 
 - Joined the API development and integration team at PROTESTE, a Belgian-origin company focused on quality, metrology, and technology services.
+
+**Stack:** Ruby on Rails · AngulasJS · PostgreSQL · Redis · Sidekiq · Rspec
 
 ### Co-Founder / Developer — Cotar Agora · August 2013 – August 2014
 

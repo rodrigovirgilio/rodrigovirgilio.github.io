@@ -32,11 +32,15 @@ Engenheiro de Software Sênior Backend com mais de 12 anos de experiência desen
 - Atuo na arquitetura, manutenção e desenvolvimento de novas funcionalidades de backend para otimizar a operação do produto.
 - Substituí o Bitrise por workflows customizados em GitHub Actions para builds iOS (.ipa) e Android (.apk), reduzindo os custos da empresa.
 
+**Habilidades:** Ruby on Rails · PostgreSQL · Redis · Kafka/AWS SQS · Sidekiq · Rspec · Jenkins · Docker · AWS
+
 ### Engenheiro de Software — RealFevr · Novembro 2022 – Dezembro 2023
 
 - Desenvolvi funcionalidades de backend para uma plataforma Web3 de NFTs (tokens não fungíveis) colecionáveis esportivos licenciados.
 - Desenvolvi o Programa de Referral do marketplace da empresa, integrando via API com uma ferramenta externa para atrair e engajar clientes.
 - Refatorei trechos críticos de código legado, melhorando o desempenho e a manutenibilidade da aplicação.
+
+**Habilidades:** Ruby on Rails · PostgreSQL · MongoDB · Redis · Sidekiq · Rspec · Docker · DigitalOcean
 
 ### Engenheiro de Software — iCapital · Maio 2022 – Outubro 2022
 
@@ -44,10 +48,14 @@ Engenheiro de Software Sênior Backend com mais de 12 anos de experiência desen
 - Colaborei a partir do escritório em Portugal com um time de engenharia distribuído internacionalmente, dando suporte a uma empresa sediada nos EUA.
 - Otimizei componentes do código existente, contribuindo para melhorias mensuráveis de desempenho.
 
+**Habilidades:** Ruby on Rails · React · PostgreSQL · Redis · Sidekiq · Rspec · Docker · AWS
+
 ### Engenheiro de Software — Nearshore Portugal (cliente: Voith) · Abril 2021 – Abril 2022
 
 - Desenvolvi novas funcionalidades e adaptações para a plataforma de gestão de aprendizagem da Voith (Drive4YOU), atendendo múltiplos clientes do grupo.
 - Mantive a infraestrutura da plataforma na AWS, garantindo disponibilidade contínua para as instâncias dos clientes.
+
+**Habilidades:** Ruby on Rails · Bootstrap · MySQL · Redis · Sidekiq · Rspec · AWS
 
 ### Engenheiro de Software — Sysmatch / Glintt · Março 2020 – Abril 2021
 
@@ -55,11 +63,15 @@ Engenheiro de Software Sênior Backend com mais de 12 anos de experiência desen
 - Desenvolvi funcionalidades de notificação multicanal (SMS, e-mail e push) para clientes parceiros.
 - Mantive integrações do sistema com outras plataformas do grupo Glintt.
 
+**Habilidades:** Ruby on Rails · MySQL · Redis · Pusher · Sidekiq · Rspec · Microsoft Azure Cloud
+
 ### Engenheiro de Software — Neo Med · Junho 2019 – Março 2020 (part-time até Abril 2023)
 
 - Desenvolvi novas funcionalidades para um marketplace e plataforma SaaS de laudos médicos, encurtando a distância entre sintomas e paciente.
 - Construí um serviço de gateway com API REST e cliente SOAP para comunicação com clientes parceiros.
 - Continuei contribuindo com o produto em regime part-time de Março de 2020 a Abril de 2023.
+
+**Habilidades:** Ruby on Rails · PostgreSQL · Redis · Sidekiq · Rspec · Gitlab CI/CD · Docker · Google Cloud (GCP)
 
 ### Desenvolvedor Backend — Codeminer42 · Abril 2016 – Junho 2019
 
@@ -68,9 +80,13 @@ Engenheiro de Software Sênior Backend com mais de 12 anos de experiência desen
 - Contribuí com o Central CM42, sistema open-source de gerenciamento de backlog da própria Codeminer42.
 - **Clientes atendidos:** StartsPremium, Guide Investimentos, Omnitrade, Nexaas, Smart Fit / Bio Ritmo, Achieve Leap, Hospedin, Riot Games.
 
+**Habilidades:** Ruby on Rails · PostgreSQL/MySQL · Redis · Kafka/AWS SQS · Sidekiq · Rspec · Jenkins · Docker · AWS/Google Cloud (GCP)
+
 ### Desenvolvedor Backend — PROTESTE Brasil · Novembro 2013 – Março 2016
 
 - Integrei o time de desenvolvimento e integração de API da PROTESTE, empresa de origem belga focada em qualidade, metrologia e tecnologia.
+
+**Habilidades:** Ruby on Rails · AngulasJS · PostgreSQL · Redis · Sidekiq · Rspec
 
 ### Sócio / Desenvolvedor — Cotar Agora · Agosto 2013 – Agosto 2014
 
