@@ -1,6 +1,6 @@
 # Rodrigo Luis Virgilio da Silva
 
-Senior Software Engineer — Backend Ruby on Rails
+Senior Software Engineer — Full Stack Ruby on Rails
 
 - **E-mail:** <virgilio@virgilio.eti.br>
 - **LinkedIn:** [linkedin.com/in/rodrigo-virgilio](https://www.linkedin.com/in/rodrigo-virgilio)
