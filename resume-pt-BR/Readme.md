@@ -19,8 +19,8 @@ Engenheiro de Software Sênior Backend com mais de 12 anos de experiência desen
 - **Testes & CI/CD:** RSpec, Capybara, Test-Driven Development (TDD), GitLab CI, CircleCI, Codeship, Semaphore, Jenkins, GitHub Actions
 - **APIs & Integrações:** REST API, GraphQL, SOAP, Pusher
 - **Nuvem & Infraestrutura:** Amazon Web Services (AWS), Google Cloud Platform (GCP), Docker, Kubernetes
-- **Desenvolvimento Assistido por IA:** Claude Code (Anthropic), Codex (ChatGPT)
 - **Frontend:** HTML, ERB, CSS, Sass, Bootstrap, Semantic UI, jQuery
+- **Localização:** Brasil (BRT/UTC-3) — Disponível para fusos horários EUA/Canadá; aberto a relocação
 - **Metodologias:** Agile, Scrum, Kanban
 - **Sistemas Operacionais:** macOS, Linux, Windows
 

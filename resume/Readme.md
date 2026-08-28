@@ -19,8 +19,8 @@ Senior Backend Software Engineer with 12+ years of experience building and maint
 - **Testing & CI/CD:** RSpec, Capybara, Test-Driven Development (TDD), GitLab CI, CircleCI, Codeship, Semaphore, Jenkins, GitHub Actions
 - **APIs & Integrations:** REST API, GraphQL, SOAP, Pusher
 - **Cloud & Infrastructure:** Amazon Web Services (AWS), Google Cloud Platform (GCP), Docker, Kubernetes
-- **AI-Assisted Development:** Claude Code (Anthropic), Codex (ChatGPT)
 - **Frontend:** HTML, ERB, CSS, Sass, Bootstrap, Semantic UI, jQuery
+- **Location:** Brazil (BRT/UTC-3) — Available for US/Canada time zones; open to relocation
 - **Methodologies:** Agile, Scrum, Kanban
 - **Operating Systems:** macOS, Linux, Windows
 
